@@ -22,7 +22,7 @@ try:
  while True:
   print ("Possible commands: 1-again, 2-error, 3-correct, 4-compare-to-c, 5-next, <note name>:")
   noteCount += 1
-  if noteCount % 5 == 0:
+  if noteCount % 4 == 0:
     note = random.choice(blackNotes)
     print("black")
   else:

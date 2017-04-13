@@ -10,8 +10,8 @@ import sys
 sys.path.append("/home/schef/github/schef.github.io/source/")
 from pptraning import *
 
-print ("Exercise: 14-03")
-print ("White harmonic fours. Unlock and sing. OVR.")
+print ("Exercise: 17-03")
+print ("Black harmonic fours. Unlock and sing. OVR.")
 
 runda = 0
 nameNotes = []
@@ -24,7 +24,7 @@ try:
     notes = []
     for i in range(0, 4):
       #notes.append(random.choice(whiteNotes[13:30]))
-      notes.append(random.choice(whiteNotes[6:26])) #po mojoj klavijaturi
+      notes.append(random.choice(blackNotes[6:26])) #po mojoj klavijaturi
       #notes.append(random.choice(whiteNotes[2.0]))
       #notes.append(random.choice(whiteNotes[:29]))
     if (len(list(set(notes))) == 4 \
