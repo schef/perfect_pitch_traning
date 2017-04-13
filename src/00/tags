@@ -1,0 +1,1609 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+a	../07/mc-7-4-tp-cde-md.py	/^a = re.compile("^[c-e] [c-e]$")$/;"	v
+a	../07/mc-7-5-tp-cde-hd.py	/^a = re.compile("^[c-e] [c-e]$")$/;"	v
+a	../08/mc-8-1-sk-amtpi.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../08/mc-8-2-sk-dmtpi.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../08/mc-8-3-sk-htpi.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../08/mc-8-6-tp-md-cdef.py	/^a = re.compile("^[c-f] [c-f]$")$/;"	v
+a	../08/mc-8-7-tp-hd-cdef.py	/^a = re.compile("^[c-f] [c-f]$")$/;"	v
+a	../09/mc-9-1-sk-amtpi.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../09/mc-9-2-sk-dmtpi.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../09/mc-9-3-sk-htpi.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../09/mc-9-6-tp-md-cdefg.py	/^a = re.compile("^[c-g] [c-g]$")$/;"	v
+a	../09/mc-9-7-tp-hd-cdefg.py	/^a = re.compile("^[c-g] [c-g]$")$/;"	v
+a	../10/mc-10-1-sk-as.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-10-sk-asv.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-11-sk-dsv.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-12-sk-hsv.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-15-tp-md-cdefga.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-16-tp-hd-cdefga.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-17-tp-mt-cdefga.py	/^a = re.compile("^[a-h] [a-h] [a-h]$")$/;"	v
+a	../10/mc-10-18-tp-ht-cdefga.py	/^a = re.compile("^[a-h] [a-h] [a-h]$")$/;"	v
+a	../10/mc-10-2-sk-ds.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-3-sk-hs.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-4-sk-afi.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-5-sk-dfi.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-6-sk-hfi.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-7-sk-afo.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-8-sk-dfo.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../10/mc-10-9-sk-hfo.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../11/mc-11-01-sk-whd.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../11/mc-11-0203-sk-wmd.py	/^a = re.compile("^[a-h] [a-h]$")$/;"	v
+a	../11/mc-11-04-sk-ht.py	/^a = re.compile("^[a-h] [a-h] [a-h]$")$/;"	v
+a	../11/mc-11-05-sk-mt.py	/^a = re.compile("^[a-h] [a-h] [a-h]$")$/;"	v
+a	../11/mc-11-06-sk-wht.py	/^a = re.compile("^[a-h] [a-h] [a-h]$")$/;"	v
+a	../11/mc-11-07-sk-wmt.py	/^a = re.compile("^[a-h] [a-h] [a-h]$")$/;"	v
+available_ports	../00/ppFunctions.py	/^available_ports = midiout.get_ports()$/;"	v
+b	../11/mc-11-01-sk-whd.py	/^b = re.compile("^[a-h]$")$/;"	v
+b	../11/mc-11-0203-sk-wmd.py	/^b = re.compile("^[a-h]$")$/;"	v
+b	../11/mc-11-08-medi.py	/^b = re.compile("^[a-h]$")$/;"	v
+blackNotes	../14/pptraning.py	/^blackNotes = [ #37, 39, 42, 44, 46, #cis-b$/;"	v
+blackNotes	../pptraning.py	/^blackNotes = [ #37, 39, 42, 44, 46, #cis-b$/;"	v
+blackTones	../00/ppFunctions.py	/^blackTones = {$/;"	v
+blackTonesBase	../00/ppFunctions.py	/^blackTonesBase = (1, 3, 6, 8, 10)$/;"	v
+choiceList	../16/mc-16-04-02-dmt-hdfas.py	/^choiceList = [ "h,", "d", "f", "as"]$/;"	v
+choiceList	../16/mc-16-04-03-tmt-hdfas.py	/^choiceList = [ "h,", "d", "f", "as"]$/;"	v
+choiceList	../16/mc-16-04-04-dht-hdfas.py	/^choiceList = [ "h,", "d", "f", "as"]$/;"	v
+choiceList	../16/mc-16-04-05-tht-hdfas.py	/^choiceList = [ "h,", "d", "f", "as"]$/;"	v
+choiceList	../17/mc-17-05-02-dmt-hdfasc.py	/^choiceList = [ "h,", "d", "f", "as"]$/;"	v
+choiceList	../17/mc-17-05-03-tmt-hdfasc.py	/^choiceList = [ "h,", "d", "f", "as"]$/;"	v
+choiceList	../17/mc-17-05-04-dht-hdfasc.py	/^choiceList = [ "h,", "d", "f", "as"]$/;"	v
+choiceList	../17/mc-17-05-05-tht-hdfasc.py	/^choiceList = [ "h,", "d", "f", "as"]$/;"	v
+colored	../16/mc-16-01-01-cmajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-01-02-dmajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-01-03-emajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-01-04-fmajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-01-05-gmajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-01-06-amajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-01-07-hmajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-01-08-1major-1black.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-02-01-cismajor-1white.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-02-02-esmajor-1white.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-02-03-fismajor-1white.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-02-04-asmajor-1white.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-02-05-bmajor-1white.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-02-06-1major-1white.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-03-medi-cmajor-as-doubles.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-04-01-st-hdfas.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-04-02-dmt-hdfas.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-04-03-tmt-hdfas.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-04-04-dht-hdfas.py	/^from termcolor import colored, cprint$/;"	i
+colored	../16/mc-16-04-05-tht-hdfas.py	/^from termcolor import colored, cprint$/;"	i
+colored	../17/mc-17-01-cmajor-2bh.py	/^from termcolor import colored, cprint$/;"	i
+colored	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^from termcolor import colored, cprint$/;"	i
+colored	../17/mc-17-05-01-st-hdfasc.py	/^from termcolor import colored, cprint$/;"	i
+colored	../17/mc-17-05-02-dmt-hdfasc.py	/^from termcolor import colored, cprint$/;"	i
+colored	../17/mc-17-05-03-tmt-hdfasc.py	/^from termcolor import colored, cprint$/;"	i
+colored	../17/mc-17-05-04-dht-hdfasc.py	/^from termcolor import colored, cprint$/;"	i
+colored	../17/mc-17-05-05-tht-hdfasc.py	/^from termcolor import colored, cprint$/;"	i
+copyGeneratedList	../16/mc-16-04-03-tmt-hdfas.py	/^    copyGeneratedList = list(generatedList)$/;"	v
+copyGeneratedList	../16/mc-16-04-04-dht-hdfas.py	/^    copyGeneratedList = list(generatedList)$/;"	v
+copyGeneratedList	../16/mc-16-04-05-tht-hdfas.py	/^    copyGeneratedList = list(generatedList)$/;"	v
+copyGeneratedList	../17/mc-17-05-03-tmt-hdfasc.py	/^    copyGeneratedList = list(generatedList)$/;"	v
+copyGeneratedList	../17/mc-17-05-04-dht-hdfasc.py	/^    copyGeneratedList = list(generatedList)$/;"	v
+copyGeneratedList	../17/mc-17-05-05-tht-hdfasc.py	/^    copyGeneratedList = list(generatedList)$/;"	v
+correct	../14/mc-14-02-4w1b.py	/^        correct = 0$/;"	v
+correct	../14/mc-14-02-4w1b.py	/^correct = 0$/;"	v
+correct	../17/mc-17-02-3w1b.py	/^        correct = 0$/;"	v
+correct	../17/mc-17-02-3w1b.py	/^correct = 0$/;"	v
+cprint	../16/mc-16-01-01-cmajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-01-02-dmajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-01-03-emajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-01-04-fmajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-01-05-gmajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-01-06-amajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-01-07-hmajor-1black.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-01-08-1major-1black.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-02-01-cismajor-1white.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-02-02-esmajor-1white.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-02-03-fismajor-1white.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-02-04-asmajor-1white.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-02-05-bmajor-1white.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-02-06-1major-1white.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-03-medi-cmajor-as-doubles.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-04-01-st-hdfas.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-04-02-dmt-hdfas.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-04-03-tmt-hdfas.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-04-04-dht-hdfas.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../16/mc-16-04-05-tht-hdfas.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../17/mc-17-01-cmajor-2bh.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../17/mc-17-05-01-st-hdfasc.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../17/mc-17-05-02-dmt-hdfasc.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../17/mc-17-05-03-tmt-hdfasc.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../17/mc-17-05-04-dht-hdfasc.py	/^from termcolor import colored, cprint$/;"	i
+cprint	../17/mc-17-05-05-tht-hdfasc.py	/^from termcolor import colored, cprint$/;"	i
+customBlackNotes	../14/mc-14-05-medi.py	/^customBlackNotes = []$/;"	v
+done	../02/mc-2-1-colorAwareness.py	/^      done = True$/;"	v
+done	../02/mc-2-1-colorAwareness.py	/^  done = False$/;"	v
+done	../03/mc-3-1-chords.py	/^      done = True$/;"	v
+done	../03/mc-3-1-chords.py	/^  done = False$/;"	v
+done	../05/mc-5-1-sk-thirds.py	/^      done = True$/;"	v
+done	../05/mc-5-1-sk-thirds.py	/^  done = False$/;"	v
+done	../06/mc-6-1-sk-seconds.py	/^      done = True$/;"	v
+done	../06/mc-6-1-sk-seconds.py	/^  done = False$/;"	v
+done	../06/mc-6-2-sk-unlock-2-close.py	/^      done = True$/;"	v
+done	../06/mc-6-2-sk-unlock-2-close.py	/^  done = False$/;"	v
+done	../06/mc-6-3-sk-unlock-2-wide.py	/^      done = True$/;"	v
+done	../06/mc-6-3-sk-unlock-2-wide.py	/^  done = False$/;"	v
+done	../06/mc-6-4-sk-unlock-3-close.py	/^      done = True$/;"	v
+done	../06/mc-6-4-sk-unlock-3-close.py	/^  done = False$/;"	v
+done	../06/mc-6-5-sk-unlock-3-wide.py	/^      done = True$/;"	v
+done	../06/mc-6-5-sk-unlock-3-wide.py	/^  done = False$/;"	v
+done	../12/mc-12-01-bs.py	/^        done = True$/;"	v
+done	../12/mc-12-01-bs.py	/^      done = True$/;"	v
+done	../12/mc-12-01-bs.py	/^   done = False$/;"	v
+done	../12/mc-12-02-bmd.py	/^            done = True$/;"	v
+done	../12/mc-12-02-bmd.py	/^      done = False$/;"	v
+done	../12/mc-12-03-bhd.py	/^            done = True$/;"	v
+done	../12/mc-12-03-bhd.py	/^      done = False$/;"	v
+done	../12/mc-12-04-bth.py	/^            done = True$/;"	v
+done	../12/mc-12-04-bth.py	/^      done = False$/;"	v
+done	../12/mc-12-05-btm.py	/^            done = True$/;"	v
+done	../12/mc-12-05-btm.py	/^      done = False$/;"	v
+done	../14/mc-14-01-cmajor-1black.py	/^            done = True$/;"	v
+done	../14/mc-14-01-cmajor-1black.py	/^      done = False$/;"	v
+done	../14/mc-14-02-4w1b.py	/^        done = True$/;"	v
+done	../14/mc-14-02-4w1b.py	/^      done = True$/;"	v
+done	../14/mc-14-02-4w1b.py	/^   done = False$/;"	v
+done	../14/mc-14-03-whfl.py	/^      done = True$/;"	v
+done	../14/mc-14-03-whfl.py	/^   done = False$/;"	v
+done	../14/mc-14-04-whf-pid.py	/^        done = True$/;"	v
+done	../14/mc-14-04-whf-pid.py	/^      done = True$/;"	v
+done	../14/mc-14-04-whf-pid.py	/^   done = False$/;"	v
+done	../14/mc-14-04b-whf-hpid.py	/^        done = True$/;"	v
+done	../14/mc-14-04b-whf-hpid.py	/^      done = True$/;"	v
+done	../14/mc-14-04b-whf-hpid.py	/^   done = False$/;"	v
+done	../14/mc-14-05-medi.py	/^          done = True$/;"	v
+done	../14/mc-14-05-medi.py	/^      done = False$/;"	v
+done	../16/mc-16-01-01-cmajor-1black.py	/^                done = True$/;"	v
+done	../16/mc-16-01-01-cmajor-1black.py	/^            done = True$/;"	v
+done	../16/mc-16-01-01-cmajor-1black.py	/^    done = False$/;"	v
+done	../16/mc-16-01-01-cmajor-1black.py	/^done = False$/;"	v
+done	../16/mc-16-01-02-dmajor-1black.py	/^                done = True$/;"	v
+done	../16/mc-16-01-02-dmajor-1black.py	/^            done = True$/;"	v
+done	../16/mc-16-01-02-dmajor-1black.py	/^    done = False$/;"	v
+done	../16/mc-16-01-02-dmajor-1black.py	/^done = False$/;"	v
+done	../16/mc-16-01-03-emajor-1black.py	/^                done = True$/;"	v
+done	../16/mc-16-01-03-emajor-1black.py	/^            done = True$/;"	v
+done	../16/mc-16-01-03-emajor-1black.py	/^    done = False$/;"	v
+done	../16/mc-16-01-03-emajor-1black.py	/^done = False$/;"	v
+done	../16/mc-16-01-04-fmajor-1black.py	/^                done = True$/;"	v
+done	../16/mc-16-01-04-fmajor-1black.py	/^            done = True$/;"	v
+done	../16/mc-16-01-04-fmajor-1black.py	/^    done = False$/;"	v
+done	../16/mc-16-01-04-fmajor-1black.py	/^done = False$/;"	v
+done	../16/mc-16-01-05-gmajor-1black.py	/^                done = True$/;"	v
+done	../16/mc-16-01-05-gmajor-1black.py	/^            done = True$/;"	v
+done	../16/mc-16-01-05-gmajor-1black.py	/^    done = False$/;"	v
+done	../16/mc-16-01-05-gmajor-1black.py	/^done = False$/;"	v
+done	../16/mc-16-01-06-amajor-1black.py	/^                done = True$/;"	v
+done	../16/mc-16-01-06-amajor-1black.py	/^            done = True$/;"	v
+done	../16/mc-16-01-06-amajor-1black.py	/^    done = False$/;"	v
+done	../16/mc-16-01-06-amajor-1black.py	/^done = False$/;"	v
+done	../16/mc-16-01-07-hmajor-1black.py	/^                done = True$/;"	v
+done	../16/mc-16-01-07-hmajor-1black.py	/^            done = True$/;"	v
+done	../16/mc-16-01-07-hmajor-1black.py	/^    done = False$/;"	v
+done	../16/mc-16-01-07-hmajor-1black.py	/^done = False$/;"	v
+done	../16/mc-16-01-08-1major-1black.py	/^                done = True$/;"	v
+done	../16/mc-16-01-08-1major-1black.py	/^            done = True$/;"	v
+done	../16/mc-16-01-08-1major-1black.py	/^    done = False$/;"	v
+done	../16/mc-16-01-08-1major-1black.py	/^done = False$/;"	v
+done	../16/mc-16-02-01-cismajor-1white.py	/^                done = True$/;"	v
+done	../16/mc-16-02-01-cismajor-1white.py	/^            done = True$/;"	v
+done	../16/mc-16-02-01-cismajor-1white.py	/^    done = False$/;"	v
+done	../16/mc-16-02-01-cismajor-1white.py	/^done = False$/;"	v
+done	../16/mc-16-02-02-esmajor-1white.py	/^                done = True$/;"	v
+done	../16/mc-16-02-02-esmajor-1white.py	/^            done = True$/;"	v
+done	../16/mc-16-02-02-esmajor-1white.py	/^    done = False$/;"	v
+done	../16/mc-16-02-02-esmajor-1white.py	/^done = False$/;"	v
+done	../16/mc-16-02-03-fismajor-1white.py	/^                done = True$/;"	v
+done	../16/mc-16-02-03-fismajor-1white.py	/^            done = True$/;"	v
+done	../16/mc-16-02-03-fismajor-1white.py	/^    done = False$/;"	v
+done	../16/mc-16-02-03-fismajor-1white.py	/^done = False$/;"	v
+done	../16/mc-16-02-04-asmajor-1white.py	/^                done = True$/;"	v
+done	../16/mc-16-02-04-asmajor-1white.py	/^            done = True$/;"	v
+done	../16/mc-16-02-04-asmajor-1white.py	/^    done = False$/;"	v
+done	../16/mc-16-02-04-asmajor-1white.py	/^done = False$/;"	v
+done	../16/mc-16-02-05-bmajor-1white.py	/^                done = True$/;"	v
+done	../16/mc-16-02-05-bmajor-1white.py	/^            done = True$/;"	v
+done	../16/mc-16-02-05-bmajor-1white.py	/^    done = False$/;"	v
+done	../16/mc-16-02-05-bmajor-1white.py	/^done = False$/;"	v
+done	../16/mc-16-02-06-1major-1white.py	/^                done = True$/;"	v
+done	../16/mc-16-02-06-1major-1white.py	/^            done = True$/;"	v
+done	../16/mc-16-02-06-1major-1white.py	/^    done = False$/;"	v
+done	../16/mc-16-02-06-1major-1white.py	/^done = False$/;"	v
+done	../16/mc-16-03-medi-cmajor-as-doubles.py	/^            done = True$/;"	v
+done	../16/mc-16-03-medi-cmajor-as-doubles.py	/^    done = False$/;"	v
+done	../16/mc-16-03-medi-cmajor-as-doubles.py	/^done = False$/;"	v
+done	../16/mc-16-04-01-st-hdfas.py	/^                done = True$/;"	v
+done	../16/mc-16-04-01-st-hdfas.py	/^            done = True$/;"	v
+done	../16/mc-16-04-01-st-hdfas.py	/^    done = False$/;"	v
+done	../16/mc-16-04-01-st-hdfas.py	/^done = False$/;"	v
+done	../16/mc-16-04-02-dmt-hdfas.py	/^                done = True$/;"	v
+done	../16/mc-16-04-02-dmt-hdfas.py	/^            done = True$/;"	v
+done	../16/mc-16-04-02-dmt-hdfas.py	/^    done = False$/;"	v
+done	../16/mc-16-04-02-dmt-hdfas.py	/^done = False$/;"	v
+done	../16/mc-16-04-03-tmt-hdfas.py	/^                done = True$/;"	v
+done	../16/mc-16-04-03-tmt-hdfas.py	/^            done = True$/;"	v
+done	../16/mc-16-04-03-tmt-hdfas.py	/^    done = False$/;"	v
+done	../16/mc-16-04-03-tmt-hdfas.py	/^done = False$/;"	v
+done	../16/mc-16-04-04-dht-hdfas.py	/^                done = True$/;"	v
+done	../16/mc-16-04-04-dht-hdfas.py	/^            done = True$/;"	v
+done	../16/mc-16-04-04-dht-hdfas.py	/^    done = False$/;"	v
+done	../16/mc-16-04-04-dht-hdfas.py	/^done = False$/;"	v
+done	../16/mc-16-04-05-tht-hdfas.py	/^                done = True$/;"	v
+done	../16/mc-16-04-05-tht-hdfas.py	/^            done = True$/;"	v
+done	../16/mc-16-04-05-tht-hdfas.py	/^    done = False$/;"	v
+done	../16/mc-16-04-05-tht-hdfas.py	/^done = False$/;"	v
+done	../17/mc-17-01-cmajor-2bh.py	/^                done = True$/;"	v
+done	../17/mc-17-01-cmajor-2bh.py	/^            done = True$/;"	v
+done	../17/mc-17-01-cmajor-2bh.py	/^    done = False$/;"	v
+done	../17/mc-17-01-cmajor-2bh.py	/^done = False$/;"	v
+done	../17/mc-17-02-3w1b.py	/^        done = True$/;"	v
+done	../17/mc-17-02-3w1b.py	/^      done = True$/;"	v
+done	../17/mc-17-02-3w1b.py	/^   done = False$/;"	v
+done	../17/mc-17-03-01-4bh-fus.py	/^      done = True$/;"	v
+done	../17/mc-17-03-01-4bh-fus.py	/^   done = False$/;"	v
+done	../17/mc-17-03-02-4bh-pid.py	/^        done = True$/;"	v
+done	../17/mc-17-03-02-4bh-pid.py	/^      done = True$/;"	v
+done	../17/mc-17-03-02-4bh-pid.py	/^   done = False$/;"	v
+done	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^            done = True$/;"	v
+done	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^    done = False$/;"	v
+done	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^done = False$/;"	v
+done	../17/mc-17-05-01-st-hdfasc.py	/^                done = True$/;"	v
+done	../17/mc-17-05-01-st-hdfasc.py	/^            done = True$/;"	v
+done	../17/mc-17-05-01-st-hdfasc.py	/^    done = False$/;"	v
+done	../17/mc-17-05-01-st-hdfasc.py	/^done = False$/;"	v
+done	../17/mc-17-05-02-dmt-hdfasc.py	/^                done = True$/;"	v
+done	../17/mc-17-05-02-dmt-hdfasc.py	/^            done = True$/;"	v
+done	../17/mc-17-05-02-dmt-hdfasc.py	/^    done = False$/;"	v
+done	../17/mc-17-05-02-dmt-hdfasc.py	/^done = False$/;"	v
+done	../17/mc-17-05-03-tmt-hdfasc.py	/^                done = True$/;"	v
+done	../17/mc-17-05-03-tmt-hdfasc.py	/^            done = True$/;"	v
+done	../17/mc-17-05-03-tmt-hdfasc.py	/^    done = False$/;"	v
+done	../17/mc-17-05-03-tmt-hdfasc.py	/^done = False$/;"	v
+done	../17/mc-17-05-04-dht-hdfasc.py	/^                done = True$/;"	v
+done	../17/mc-17-05-04-dht-hdfasc.py	/^            done = True$/;"	v
+done	../17/mc-17-05-04-dht-hdfasc.py	/^    done = False$/;"	v
+done	../17/mc-17-05-04-dht-hdfasc.py	/^done = False$/;"	v
+done	../17/mc-17-05-05-tht-hdfasc.py	/^                done = True$/;"	v
+done	../17/mc-17-05-05-tht-hdfasc.py	/^            done = True$/;"	v
+done	../17/mc-17-05-05-tht-hdfasc.py	/^    done = False$/;"	v
+done	../17/mc-17-05-05-tht-hdfasc.py	/^done = False$/;"	v
+dur	../03/mc-3-1-chords.py	/^dur = [ 0, 4, 7, 12 ]$/;"	v
+es	../03/mc-3-1-chords.py	/^es = 63+toneOffset$/;"	v
+fin	../02/mc-2-1-colorAwareness.py	/^fin=open(fname,"rb")$/;"	v
+fin	../03/mc-3-1-chords.py	/^fin=open(fname,"rb")$/;"	v
+fin	../05/mc-5-1-sk-thirds.py	/^fin=open(fname,"rb")$/;"	v
+fin	../06/mc-6-1-sk-seconds.py	/^fin=open(fname,"rb")$/;"	v
+fin	../06/mc-6-2-sk-unlock-2-close.py	/^fin=open(fname,"rb")$/;"	v
+fin	../06/mc-6-3-sk-unlock-2-wide.py	/^fin=open(fname,"rb")$/;"	v
+fin	../06/mc-6-4-sk-unlock-3-close.py	/^fin=open(fname,"rb")$/;"	v
+fin	../06/mc-6-5-sk-unlock-3-wide.py	/^fin=open(fname,"rb")$/;"	v
+fin	../07/mc-7-1-sk-c-major.py	/^fin=open(fname,"rb")$/;"	v
+fin	../07/mc-7-2-medi-cde.py	/^fin=open(fname,"rb")$/;"	v
+fin	../07/mc-7-4-tp-cde-md.py	/^fin=open(fname,"rb")$/;"	v
+fin	../07/mc-7-5-tp-cde-hd.py	/^fin=open(fname,"rb")$/;"	v
+fin	../08/mc-8-1-sk-amtpi.py	/^fin=open(fname,"rb")$/;"	v
+fin	../08/mc-8-2-sk-dmtpi.py	/^fin=open(fname,"rb")$/;"	v
+fin	../08/mc-8-3-sk-htpi.py	/^fin=open(fname,"rb")$/;"	v
+fin	../08/mc-8-4-medi-cdef.py	/^fin=open(fname,"rb")$/;"	v
+fin	../08/mc-8-5-tp-ms-cdef.py	/^fin=open(fname,"rb")$/;"	v
+fin	../08/mc-8-6-tp-md-cdef.py	/^fin=open(fname,"rb")$/;"	v
+fin	../08/mc-8-7-tp-hd-cdef.py	/^fin=open(fname,"rb")$/;"	v
+fin	../09/mc-9-1-sk-amtpi.py	/^fin=open(fname,"rb")$/;"	v
+fin	../09/mc-9-2-sk-dmtpi.py	/^fin=open(fname,"rb")$/;"	v
+fin	../09/mc-9-3-sk-htpi.py	/^fin=open(fname,"rb")$/;"	v
+fin	../09/mc-9-4-medi-cdefg.py	/^fin=open(fname,"rb")$/;"	v
+fin	../09/mc-9-5-tp-ms-cdefg.py	/^fin=open(fname,"rb")$/;"	v
+fin	../09/mc-9-6-tp-md-cdefg.py	/^fin=open(fname,"rb")$/;"	v
+fin	../09/mc-9-7-tp-hd-cdefg.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-1-sk-as.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-10-sk-asv.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-11-sk-dsv.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-12-sk-hsv.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-13-medi-cdefga.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-14-tp-ms-cdefga.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-15-tp-md-cdefga.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-16-tp-hd-cdefga.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-17-tp-mt-cdefga.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-18-tp-ht-cdefga.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-2-sk-ds.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-3-sk-hs.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-4-sk-afi.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-5-sk-dfi.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-6-sk-hfi.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-7-sk-afo.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-8-sk-dfo.py	/^fin=open(fname,"rb")$/;"	v
+fin	../10/mc-10-9-sk-hfo.py	/^fin=open(fname,"rb")$/;"	v
+fin	../11/mc-11-01-sk-whd.py	/^fin=open(fname,"rb")$/;"	v
+fin	../11/mc-11-0203-sk-wmd.py	/^fin=open(fname,"rb")$/;"	v
+fin	../11/mc-11-04-sk-ht.py	/^fin=open(fname,"rb")$/;"	v
+fin	../11/mc-11-05-sk-mt.py	/^fin=open(fname,"rb")$/;"	v
+fin	../11/mc-11-06-sk-wht.py	/^fin=open(fname,"rb")$/;"	v
+fin	../11/mc-11-07-sk-wmt.py	/^fin=open(fname,"rb")$/;"	v
+fin	../11/mc-11-08-medi.py	/^fin=open(fname,"rb")$/;"	v
+fin	../11/mc-11-09-tp-ms.py	/^fin=open(fname,"rb")$/;"	v
+fin	../14/pptraning.py	/^fin=open(fname,"rb")$/;"	v
+fin	../pptraning.py	/^fin=open(fname,"rb")$/;"	v
+fis	../03/mc-3-1-chords.py	/^fis = 66+toneOffset$/;"	v
+fname	../02/mc-2-1-colorAwareness.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../03/mc-3-1-chords.py	/^fname="\/dev\/snd\/midiC1D0"$/;"	v
+fname	../05/mc-5-1-sk-thirds.py	/^fname="\/dev\/snd\/midiC1D0"$/;"	v
+fname	../06/mc-6-1-sk-seconds.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../06/mc-6-2-sk-unlock-2-close.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../06/mc-6-3-sk-unlock-2-wide.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../06/mc-6-4-sk-unlock-3-close.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../06/mc-6-5-sk-unlock-3-wide.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../07/mc-7-1-sk-c-major.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../07/mc-7-2-medi-cde.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../07/mc-7-4-tp-cde-md.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../07/mc-7-5-tp-cde-hd.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../08/mc-8-1-sk-amtpi.py	/^fname="\/dev\/snd\/midiC1D0"$/;"	v
+fname	../08/mc-8-2-sk-dmtpi.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../08/mc-8-3-sk-htpi.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../08/mc-8-4-medi-cdef.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../08/mc-8-5-tp-ms-cdef.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../08/mc-8-6-tp-md-cdef.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../08/mc-8-7-tp-hd-cdef.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../09/mc-9-1-sk-amtpi.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../09/mc-9-2-sk-dmtpi.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../09/mc-9-3-sk-htpi.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../09/mc-9-4-medi-cdefg.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../09/mc-9-5-tp-ms-cdefg.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../09/mc-9-6-tp-md-cdefg.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../09/mc-9-7-tp-hd-cdefg.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-1-sk-as.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-10-sk-asv.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-11-sk-dsv.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-12-sk-hsv.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-13-medi-cdefga.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-14-tp-ms-cdefga.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-15-tp-md-cdefga.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-16-tp-hd-cdefga.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-17-tp-mt-cdefga.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-18-tp-ht-cdefga.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-2-sk-ds.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-3-sk-hs.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-4-sk-afi.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-5-sk-dfi.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-6-sk-hfi.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-7-sk-afo.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-8-sk-dfo.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../10/mc-10-9-sk-hfo.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../11/mc-11-01-sk-whd.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../11/mc-11-0203-sk-wmd.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../11/mc-11-04-sk-ht.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../11/mc-11-05-sk-mt.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../11/mc-11-06-sk-wht.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../11/mc-11-07-sk-wmt.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../11/mc-11-08-medi.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../11/mc-11-09-tp-ms.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fname	../14/pptraning.py	/^fname="\/dev\/snd\/midiC1D0"$/;"	v
+fname	../pptraning.py	/^fname="\/dev\/snd\/midiC2D0"$/;"	v
+fout	../02/mc-2-1-colorAwareness.py	/^fout=open(fname,"wb")$/;"	v
+fout	../03/mc-3-1-chords.py	/^fout=open(fname,"wb")$/;"	v
+fout	../05/mc-5-1-sk-thirds.py	/^fout=open(fname,"wb")$/;"	v
+fout	../06/mc-6-1-sk-seconds.py	/^fout=open(fname,"wb")$/;"	v
+fout	../06/mc-6-2-sk-unlock-2-close.py	/^fout=open(fname,"wb")$/;"	v
+fout	../06/mc-6-3-sk-unlock-2-wide.py	/^fout=open(fname,"wb")$/;"	v
+fout	../06/mc-6-4-sk-unlock-3-close.py	/^fout=open(fname,"wb")$/;"	v
+fout	../06/mc-6-5-sk-unlock-3-wide.py	/^fout=open(fname,"wb")$/;"	v
+fout	../07/mc-7-1-sk-c-major.py	/^fout=open(fname,"wb")$/;"	v
+fout	../07/mc-7-2-medi-cde.py	/^fout=open(fname,"wb")$/;"	v
+fout	../07/mc-7-4-tp-cde-md.py	/^fout=open(fname,"wb")$/;"	v
+fout	../07/mc-7-5-tp-cde-hd.py	/^fout=open(fname,"wb")$/;"	v
+fout	../08/mc-8-1-sk-amtpi.py	/^fout=open(fname,"wb")$/;"	v
+fout	../08/mc-8-2-sk-dmtpi.py	/^fout=open(fname,"wb")$/;"	v
+fout	../08/mc-8-3-sk-htpi.py	/^fout=open(fname,"wb")$/;"	v
+fout	../08/mc-8-4-medi-cdef.py	/^fout=open(fname,"wb")$/;"	v
+fout	../08/mc-8-5-tp-ms-cdef.py	/^fout=open(fname,"wb")$/;"	v
+fout	../08/mc-8-6-tp-md-cdef.py	/^fout=open(fname,"wb")$/;"	v
+fout	../08/mc-8-7-tp-hd-cdef.py	/^fout=open(fname,"wb")$/;"	v
+fout	../09/mc-9-1-sk-amtpi.py	/^fout=open(fname,"wb")$/;"	v
+fout	../09/mc-9-2-sk-dmtpi.py	/^fout=open(fname,"wb")$/;"	v
+fout	../09/mc-9-3-sk-htpi.py	/^fout=open(fname,"wb")$/;"	v
+fout	../09/mc-9-4-medi-cdefg.py	/^fout=open(fname,"wb")$/;"	v
+fout	../09/mc-9-5-tp-ms-cdefg.py	/^fout=open(fname,"wb")$/;"	v
+fout	../09/mc-9-6-tp-md-cdefg.py	/^fout=open(fname,"wb")$/;"	v
+fout	../09/mc-9-7-tp-hd-cdefg.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-1-sk-as.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-10-sk-asv.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-11-sk-dsv.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-12-sk-hsv.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-13-medi-cdefga.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-14-tp-ms-cdefga.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-15-tp-md-cdefga.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-16-tp-hd-cdefga.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-17-tp-mt-cdefga.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-18-tp-ht-cdefga.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-2-sk-ds.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-3-sk-hs.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-4-sk-afi.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-5-sk-dfi.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-6-sk-hfi.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-7-sk-afo.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-8-sk-dfo.py	/^fout=open(fname,"wb")$/;"	v
+fout	../10/mc-10-9-sk-hfo.py	/^fout=open(fname,"wb")$/;"	v
+fout	../11/mc-11-01-sk-whd.py	/^fout=open(fname,"wb")$/;"	v
+fout	../11/mc-11-0203-sk-wmd.py	/^fout=open(fname,"wb")$/;"	v
+fout	../11/mc-11-04-sk-ht.py	/^fout=open(fname,"wb")$/;"	v
+fout	../11/mc-11-05-sk-mt.py	/^fout=open(fname,"wb")$/;"	v
+fout	../11/mc-11-06-sk-wht.py	/^fout=open(fname,"wb")$/;"	v
+fout	../11/mc-11-07-sk-wmt.py	/^fout=open(fname,"wb")$/;"	v
+fout	../11/mc-11-08-medi.py	/^fout=open(fname,"wb")$/;"	v
+fout	../11/mc-11-09-tp-ms.py	/^fout=open(fname,"wb")$/;"	v
+fout	../14/pptraning.py	/^fout=open(fname,"wb")$/;"	v
+fout	../pptraning.py	/^fout=open(fname,"wb")$/;"	v
+generateRandomNotesFromGivenList	../00/ppFunctions.py	/^def generateRandomNotesFromGivenList(numberOfTones, givenList):$/;"	f
+generatedChords	../16/mc-16-01-08-1major-1black.py	/^generatedChords = [$/;"	v
+generatedChords	../16/mc-16-02-06-1major-1white.py	/^generatedChords = [$/;"	v
+generatedList	../16/mc-16-01-01-cmajor-1black.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-01-02-dmajor-1black.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-01-03-emajor-1black.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-01-04-fmajor-1black.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-01-05-gmajor-1black.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-01-06-amajor-1black.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-01-07-hmajor-1black.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-01-08-1major-1black.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-02-01-cismajor-1white.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-02-02-esmajor-1white.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-02-03-fismajor-1white.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-02-04-asmajor-1white.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-02-05-bmajor-1white.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-02-06-1major-1white.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-03-medi-cmajor-as-doubles.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-04-01-st-hdfas.py	/^generatedList = [ "h,", "d", "f", "as"]$/;"	v
+generatedList	../16/mc-16-04-02-dmt-hdfas.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-04-03-tmt-hdfas.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-04-04-dht-hdfas.py	/^generatedList = []$/;"	v
+generatedList	../16/mc-16-04-05-tht-hdfas.py	/^generatedList = []$/;"	v
+generatedList	../17/mc-17-01-cmajor-2bh.py	/^generatedList = []$/;"	v
+generatedList	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^generatedList = []$/;"	v
+generatedList	../17/mc-17-05-01-st-hdfasc.py	/^generatedList = [ "h,", "d", "f", "as"]$/;"	v
+generatedList	../17/mc-17-05-02-dmt-hdfasc.py	/^generatedList = []$/;"	v
+generatedList	../17/mc-17-05-03-tmt-hdfasc.py	/^generatedList = []$/;"	v
+generatedList	../17/mc-17-05-04-dht-hdfasc.py	/^generatedList = []$/;"	v
+generatedList	../17/mc-17-05-05-tht-hdfasc.py	/^generatedList = []$/;"	v
+generatedListTwo	../16/mc-16-03-medi-cmajor-as-doubles.py	/^    generatedListTwo = list(generatedList)$/;"	v
+generatedListTwo	../16/mc-16-04-02-dmt-hdfas.py	/^    generatedListTwo = list(generatedList)$/;"	v
+generatedListTwo	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^    generatedListTwo = list(generatedList)$/;"	v
+generatedListTwo	../17/mc-17-05-02-dmt-hdfasc.py	/^    generatedListTwo = list(generatedList)$/;"	v
+guessedNote	../16/mc-16-01-01-cmajor-1black.py	/^        guessedNote = input("Your input:")$/;"	v
+guessedNote	../16/mc-16-01-02-dmajor-1black.py	/^        guessedNote = input("Your input:")$/;"	v
+guessedNote	../16/mc-16-01-03-emajor-1black.py	/^        guessedNote = input("Your input:")$/;"	v
+guessedNote	../16/mc-16-01-04-fmajor-1black.py	/^        guessedNote = input("Your input:")$/;"	v
+guessedNote	../16/mc-16-01-05-gmajor-1black.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-01-06-amajor-1black.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-01-07-hmajor-1black.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-01-08-1major-1black.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-02-01-cismajor-1white.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-02-02-esmajor-1white.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-02-03-fismajor-1white.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-02-04-asmajor-1white.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-02-05-bmajor-1white.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-02-06-1major-1white.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-03-medi-cmajor-as-doubles.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-04-01-st-hdfas.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-04-02-dmt-hdfas.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-04-03-tmt-hdfas.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-04-04-dht-hdfas.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../16/mc-16-04-05-tht-hdfas.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../17/mc-17-01-cmajor-2bh.py	/^        guessedNote = input("Your input:")$/;"	v
+guessedNote	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../17/mc-17-05-01-st-hdfasc.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../17/mc-17-05-02-dmt-hdfasc.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../17/mc-17-05-03-tmt-hdfasc.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../17/mc-17-05-04-dht-hdfasc.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNote	../17/mc-17-05-05-tht-hdfasc.py	/^        guessedNote = input("Your input: ")$/;"	v
+guessedNotes	../17/mc-17-01-cmajor-2bh.py	/^        guessedNotes = guessedNote.split()$/;"	v
+highTone	../00/ppFunctions.py	/^highTone = stringToMidiNum("c'")$/;"	v
+hit	../16/mc-16-01-01-cmajor-1black.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-01-01-cmajor-1black.py	/^hit = 0$/;"	v
+hit	../16/mc-16-01-02-dmajor-1black.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-01-02-dmajor-1black.py	/^hit = 0$/;"	v
+hit	../16/mc-16-01-03-emajor-1black.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-01-03-emajor-1black.py	/^hit = 0$/;"	v
+hit	../16/mc-16-01-04-fmajor-1black.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-01-04-fmajor-1black.py	/^hit = 0$/;"	v
+hit	../16/mc-16-01-05-gmajor-1black.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-01-05-gmajor-1black.py	/^hit = 0$/;"	v
+hit	../16/mc-16-01-06-amajor-1black.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-01-06-amajor-1black.py	/^hit = 0$/;"	v
+hit	../16/mc-16-01-07-hmajor-1black.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-01-07-hmajor-1black.py	/^hit = 0$/;"	v
+hit	../16/mc-16-01-08-1major-1black.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-01-08-1major-1black.py	/^hit = 0$/;"	v
+hit	../16/mc-16-02-01-cismajor-1white.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-02-01-cismajor-1white.py	/^hit = 0$/;"	v
+hit	../16/mc-16-02-02-esmajor-1white.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-02-02-esmajor-1white.py	/^hit = 0$/;"	v
+hit	../16/mc-16-02-03-fismajor-1white.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-02-03-fismajor-1white.py	/^hit = 0$/;"	v
+hit	../16/mc-16-02-04-asmajor-1white.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-02-04-asmajor-1white.py	/^hit = 0$/;"	v
+hit	../16/mc-16-02-05-bmajor-1white.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-02-05-bmajor-1white.py	/^hit = 0$/;"	v
+hit	../16/mc-16-02-06-1major-1white.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-02-06-1major-1white.py	/^hit = 0$/;"	v
+hit	../16/mc-16-04-01-st-hdfas.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-04-01-st-hdfas.py	/^hit = 0$/;"	v
+hit	../16/mc-16-04-02-dmt-hdfas.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-04-02-dmt-hdfas.py	/^hit = 0$/;"	v
+hit	../16/mc-16-04-03-tmt-hdfas.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-04-03-tmt-hdfas.py	/^hit = 0$/;"	v
+hit	../16/mc-16-04-04-dht-hdfas.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-04-04-dht-hdfas.py	/^hit = 0$/;"	v
+hit	../16/mc-16-04-05-tht-hdfas.py	/^                hit = 0$/;"	v
+hit	../16/mc-16-04-05-tht-hdfas.py	/^hit = 0$/;"	v
+hit	../17/mc-17-01-cmajor-2bh.py	/^                hit = 0$/;"	v
+hit	../17/mc-17-01-cmajor-2bh.py	/^hit = 0$/;"	v
+hit	../17/mc-17-05-01-st-hdfasc.py	/^                hit = 0$/;"	v
+hit	../17/mc-17-05-01-st-hdfasc.py	/^hit = 0$/;"	v
+hit	../17/mc-17-05-02-dmt-hdfasc.py	/^                hit = 0$/;"	v
+hit	../17/mc-17-05-02-dmt-hdfasc.py	/^hit = 0$/;"	v
+hit	../17/mc-17-05-03-tmt-hdfasc.py	/^                hit = 0$/;"	v
+hit	../17/mc-17-05-03-tmt-hdfasc.py	/^hit = 0$/;"	v
+hit	../17/mc-17-05-04-dht-hdfasc.py	/^                hit = 0$/;"	v
+hit	../17/mc-17-05-04-dht-hdfasc.py	/^hit = 0$/;"	v
+hit	../17/mc-17-05-05-tht-hdfasc.py	/^                hit = 0$/;"	v
+hit	../17/mc-17-05-05-tht-hdfasc.py	/^hit = 0$/;"	v
+i	../05/mc-5-1-sk-thirds.py	/^i = 0$/;"	v
+i	../06/mc-6-1-sk-seconds.py	/^i = 0$/;"	v
+i	../06/mc-6-2-sk-unlock-2-close.py	/^i = 0$/;"	v
+i	../06/mc-6-3-sk-unlock-2-wide.py	/^i = 0$/;"	v
+i	../06/mc-6-4-sk-unlock-3-close.py	/^i = 0$/;"	v
+i	../06/mc-6-5-sk-unlock-3-wide.py	/^i = 0$/;"	v
+i	../07/mc-7-1-sk-c-major.py	/^i = 0$/;"	v
+i	../07/mc-7-2-medi-cde.py	/^i = 0$/;"	v
+i	../08/mc-8-4-medi-cdef.py	/^i = 0$/;"	v
+i	../08/mc-8-5-tp-ms-cdef.py	/^i = 0$/;"	v
+i	../09/mc-9-4-medi-cdefg.py	/^i = 0$/;"	v
+i	../09/mc-9-5-tp-ms-cdefg.py	/^i = 0$/;"	v
+i	../10/mc-10-13-medi-cdefga.py	/^i = 0$/;"	v
+i	../10/mc-10-14-tp-ms-cdefga.py	/^i = 0$/;"	v
+i	../11/mc-11-08-medi.py	/^i = 0$/;"	v
+i	../11/mc-11-09-tp-ms.py	/^i = 0$/;"	v
+i	../12/mc-12-01-bs.py	/^i = 0$/;"	v
+i	../14/mc-14-02-4w1b.py	/^i = 0$/;"	v
+i	../17/mc-17-02-3w1b.py	/^i = 0$/;"	v
+imp	../16/mc-16-01-01-cmajor-1black.py	/^import imp$/;"	i
+imp	../16/mc-16-01-02-dmajor-1black.py	/^import imp$/;"	i
+imp	../16/mc-16-01-03-emajor-1black.py	/^import imp$/;"	i
+imp	../16/mc-16-01-04-fmajor-1black.py	/^import imp$/;"	i
+imp	../16/mc-16-01-05-gmajor-1black.py	/^import imp$/;"	i
+imp	../16/mc-16-01-06-amajor-1black.py	/^import imp$/;"	i
+imp	../16/mc-16-01-07-hmajor-1black.py	/^import imp$/;"	i
+imp	../16/mc-16-01-08-1major-1black.py	/^import imp$/;"	i
+imp	../16/mc-16-02-01-cismajor-1white.py	/^import imp$/;"	i
+imp	../16/mc-16-02-02-esmajor-1white.py	/^import imp$/;"	i
+imp	../16/mc-16-02-03-fismajor-1white.py	/^import imp$/;"	i
+imp	../16/mc-16-02-04-asmajor-1white.py	/^import imp$/;"	i
+imp	../16/mc-16-02-05-bmajor-1white.py	/^import imp$/;"	i
+imp	../16/mc-16-02-06-1major-1white.py	/^import imp$/;"	i
+imp	../16/mc-16-03-medi-cmajor-as-doubles.py	/^import imp$/;"	i
+imp	../16/mc-16-04-01-st-hdfas.py	/^import imp$/;"	i
+imp	../16/mc-16-04-02-dmt-hdfas.py	/^import imp$/;"	i
+imp	../16/mc-16-04-03-tmt-hdfas.py	/^import imp$/;"	i
+imp	../16/mc-16-04-04-dht-hdfas.py	/^import imp$/;"	i
+imp	../16/mc-16-04-05-tht-hdfas.py	/^import imp$/;"	i
+imp	../17/mc-17-01-cmajor-2bh.py	/^import imp$/;"	i
+imp	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^import imp$/;"	i
+imp	../17/mc-17-05-01-st-hdfasc.py	/^import imp$/;"	i
+imp	../17/mc-17-05-02-dmt-hdfasc.py	/^import imp$/;"	i
+imp	../17/mc-17-05-03-tmt-hdfasc.py	/^import imp$/;"	i
+imp	../17/mc-17-05-04-dht-hdfasc.py	/^import imp$/;"	i
+imp	../17/mc-17-05-05-tht-hdfasc.py	/^import imp$/;"	i
+interval	../06/mc-6-2-sk-unlock-2-close.py	/^  interval = random.randint(1, 11)$/;"	v
+interval	../06/mc-6-3-sk-unlock-2-wide.py	/^  interval = random.randint(12, 35)$/;"	v
+intervalOne	../06/mc-6-4-sk-unlock-3-close.py	/^  intervalOne = random.randint(1, 10)$/;"	v
+intervalOne	../06/mc-6-5-sk-unlock-3-wide.py	/^  intervalOne = random.randint(1, 11)$/;"	v
+intervalTwo	../06/mc-6-4-sk-unlock-3-close.py	/^  intervalTwo = random.randint(1, 11-intervalOne)$/;"	v
+intervalTwo	../06/mc-6-5-sk-unlock-3-wide.py	/^  intervalTwo = random.randint(1, len(notes)-intervalOne)$/;"	v
+keymax	../02/mc-2-1-colorAwareness.py	/^keymax=int(72)$/;"	v
+keymax	../03/mc-3-1-chords.py	/^keymax=int(72)$/;"	v
+keymax	../05/mc-5-1-sk-thirds.py	/^keymax=int(72)$/;"	v
+keymax	../06/mc-6-1-sk-seconds.py	/^keymax=int(72)$/;"	v
+keymax	../06/mc-6-2-sk-unlock-2-close.py	/^keymax=int(72)$/;"	v
+keymax	../06/mc-6-3-sk-unlock-2-wide.py	/^keymax=int(72)$/;"	v
+keymax	../06/mc-6-4-sk-unlock-3-close.py	/^keymax=int(72)$/;"	v
+keymax	../06/mc-6-5-sk-unlock-3-wide.py	/^keymax=int(72)$/;"	v
+keymin	../02/mc-2-1-colorAwareness.py	/^keymin=int(60)$/;"	v
+keymin	../03/mc-3-1-chords.py	/^keymin=int(60)$/;"	v
+keymin	../05/mc-5-1-sk-thirds.py	/^keymin=int(60)$/;"	v
+keymin	../06/mc-6-1-sk-seconds.py	/^keymin=int(60)$/;"	v
+keymin	../06/mc-6-2-sk-unlock-2-close.py	/^keymin=int(60)$/;"	v
+keymin	../06/mc-6-3-sk-unlock-2-wide.py	/^keymin=int(60)$/;"	v
+keymin	../06/mc-6-4-sk-unlock-3-close.py	/^keymin=int(60)$/;"	v
+keymin	../06/mc-6-5-sk-unlock-3-wide.py	/^keymin=int(60)$/;"	v
+lilypondOctaves	../00/ppFunctions.py	/^lilypondOctaves = {$/;"	v
+lilypondTones	../00/ppFunctions.py	/^lilypondTones = {$/;"	v
+logo	../16/mc-16-01-05-gmajor-1black.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-01-06-amajor-1black.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-01-07-hmajor-1black.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-01-08-1major-1black.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-02-01-cismajor-1white.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-02-02-esmajor-1white.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-02-03-fismajor-1white.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-02-04-asmajor-1white.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-02-05-bmajor-1white.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-02-06-1major-1white.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-03-medi-cmajor-as-doubles.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-04-01-st-hdfas.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-04-02-dmt-hdfas.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-04-03-tmt-hdfas.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-04-04-dht-hdfas.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../16/mc-16-04-05-tht-hdfas.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../17/mc-17-05-01-st-hdfasc.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../17/mc-17-05-02-dmt-hdfasc.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../17/mc-17-05-03-tmt-hdfasc.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../17/mc-17-05-04-dht-hdfasc.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+logo	../17/mc-17-05-05-tht-hdfasc.py	/^logo = imp.load_source('logo', '..\/00\/logo.py')$/;"	v
+lowTone	../00/ppFunctions.py	/^lowTone = stringToMidiNum("c")$/;"	v
+match	../06/mc-6-2-sk-unlock-2-close.py	/^      match = True$/;"	v
+match	../06/mc-6-2-sk-unlock-2-close.py	/^  match = False$/;"	v
+match	../06/mc-6-3-sk-unlock-2-wide.py	/^      match = True$/;"	v
+match	../06/mc-6-3-sk-unlock-2-wide.py	/^  match = False$/;"	v
+match	../06/mc-6-4-sk-unlock-3-close.py	/^      match = True$/;"	v
+match	../06/mc-6-4-sk-unlock-3-close.py	/^  match = False$/;"	v
+match	../06/mc-6-5-sk-unlock-3-wide.py	/^      match = True$/;"	v
+match	../06/mc-6-5-sk-unlock-3-wide.py	/^  match = False$/;"	v
+match	../12/mc-12-01-bs.py	/^        match = True$/;"	v
+match	../12/mc-12-01-bs.py	/^      match = True$/;"	v
+match	../12/mc-12-01-bs.py	/^  match = False$/;"	v
+match	../12/mc-12-02-bmd.py	/^            match = True$/;"	v
+match	../12/mc-12-02-bmd.py	/^    match = False$/;"	v
+match	../12/mc-12-03-bhd.py	/^            match = True$/;"	v
+match	../12/mc-12-03-bhd.py	/^    match = False$/;"	v
+match	../12/mc-12-04-bth.py	/^            match = True$/;"	v
+match	../12/mc-12-04-bth.py	/^    match = False$/;"	v
+match	../12/mc-12-05-btm.py	/^            match = True$/;"	v
+match	../12/mc-12-05-btm.py	/^    match = False$/;"	v
+match	../14/mc-14-01-cmajor-1black.py	/^            match = True$/;"	v
+match	../14/mc-14-01-cmajor-1black.py	/^    match = False$/;"	v
+match	../14/mc-14-02-4w1b.py	/^        match = True$/;"	v
+match	../14/mc-14-02-4w1b.py	/^      match = True$/;"	v
+match	../14/mc-14-02-4w1b.py	/^  match = False$/;"	v
+match	../14/mc-14-03-whfl.py	/^      match = True$/;"	v
+match	../14/mc-14-03-whfl.py	/^  match = False$/;"	v
+match	../14/mc-14-04-whf-pid.py	/^        match = True$/;"	v
+match	../14/mc-14-04-whf-pid.py	/^      match = True$/;"	v
+match	../14/mc-14-04-whf-pid.py	/^  match = False$/;"	v
+match	../14/mc-14-04b-whf-hpid.py	/^        match = True$/;"	v
+match	../14/mc-14-04b-whf-hpid.py	/^      match = True$/;"	v
+match	../14/mc-14-04b-whf-hpid.py	/^  match = False$/;"	v
+match	../14/mc-14-05-medi.py	/^          match = True$/;"	v
+match	../14/mc-14-05-medi.py	/^    match = False$/;"	v
+match	../17/mc-17-02-3w1b.py	/^        match = True$/;"	v
+match	../17/mc-17-02-3w1b.py	/^      match = True$/;"	v
+match	../17/mc-17-02-3w1b.py	/^  match = False$/;"	v
+match	../17/mc-17-03-01-4bh-fus.py	/^      match = True$/;"	v
+match	../17/mc-17-03-01-4bh-fus.py	/^  match = False$/;"	v
+match	../17/mc-17-03-02-4bh-pid.py	/^        match = True$/;"	v
+match	../17/mc-17-03-02-4bh-pid.py	/^      match = True$/;"	v
+match	../17/mc-17-03-02-4bh-pid.py	/^  match = False$/;"	v
+midiToString	../00/ppFunctions.py	/^def midiToString(midi):$/;"	f
+midiout	../00/ppFunctions.py	/^midiout = rtmidi.MidiOut()$/;"	v
+modl	../16/mc-16-01-01-cmajor-1black.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-01-02-dmajor-1black.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-01-03-emajor-1black.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-01-04-fmajor-1black.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-01-05-gmajor-1black.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-01-06-amajor-1black.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-01-07-hmajor-1black.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-01-08-1major-1black.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-02-01-cismajor-1white.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-02-02-esmajor-1white.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-02-03-fismajor-1white.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-02-04-asmajor-1white.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-02-05-bmajor-1white.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-02-06-1major-1white.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-03-medi-cmajor-as-doubles.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-04-01-st-hdfas.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-04-02-dmt-hdfas.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-04-03-tmt-hdfas.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-04-04-dht-hdfas.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../16/mc-16-04-05-tht-hdfas.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../17/mc-17-01-cmajor-2bh.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../17/mc-17-05-01-st-hdfasc.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../17/mc-17-05-02-dmt-hdfasc.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../17/mc-17-05-03-tmt-hdfasc.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../17/mc-17-05-04-dht-hdfasc.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+modl	../17/mc-17-05-05-tht-hdfasc.py	/^modl = imp.load_source('ppFunctions', '..\/00\/ppFunctions.py')$/;"	v
+n	../02/mc-2-1-colorAwareness.py	/^    n = input("? ")$/;"	v
+n	../03/mc-3-1-chords.py	/^    n = input("? ")$/;"	v
+n	../05/mc-5-1-sk-thirds.py	/^    n = input("? ")$/;"	v
+n	../06/mc-6-1-sk-seconds.py	/^    n = input("? ")$/;"	v
+n	../06/mc-6-2-sk-unlock-2-close.py	/^    n = input("? ")$/;"	v
+n	../06/mc-6-3-sk-unlock-2-wide.py	/^    n = input("? ")$/;"	v
+n	../06/mc-6-4-sk-unlock-3-close.py	/^    n = input("? ")$/;"	v
+n	../06/mc-6-5-sk-unlock-3-wide.py	/^    n = input("? ")$/;"	v
+n	../12/mc-12-01-bs.py	/^    n = input("? ")$/;"	v
+n	../12/mc-12-02-bmd.py	/^        n = input("? ")$/;"	v
+n	../12/mc-12-03-bhd.py	/^        n = input("? ")$/;"	v
+n	../12/mc-12-04-bth.py	/^        n = input("? ")$/;"	v
+n	../12/mc-12-05-btm.py	/^        n = input("? ")$/;"	v
+n	../14/mc-14-01-cmajor-1black.py	/^        n = input("? ")$/;"	v
+n	../14/mc-14-02-4w1b.py	/^    n = input("? ")$/;"	v
+n	../14/mc-14-03-whfl.py	/^    n = input("? ")$/;"	v
+n	../14/mc-14-04-whf-pid.py	/^    n = input("? ")$/;"	v
+n	../14/mc-14-04b-whf-hpid.py	/^    n = input("? ")$/;"	v
+n	../14/mc-14-05-medi.py	/^        n = input("? ")$/;"	v
+n	../17/mc-17-02-3w1b.py	/^    n = input("? ")$/;"	v
+n	../17/mc-17-03-01-4bh-fus.py	/^    n = input("? ")$/;"	v
+n	../17/mc-17-03-02-4bh-pid.py	/^    n = input("? ")$/;"	v
+name2Note	../07/mc-7-4-tp-cde-md.py	/^def name2Note(name):$/;"	f
+name2Note	../07/mc-7-5-tp-cde-hd.py	/^def name2Note(name):$/;"	f
+name2Note	../08/mc-8-1-sk-amtpi.py	/^def name2Note(name):$/;"	f
+name2Note	../08/mc-8-2-sk-dmtpi.py	/^def name2Note(name):$/;"	f
+name2Note	../08/mc-8-3-sk-htpi.py	/^def name2Note(name):$/;"	f
+name2Note	../08/mc-8-6-tp-md-cdef.py	/^def name2Note(name):$/;"	f
+name2Note	../08/mc-8-7-tp-hd-cdef.py	/^def name2Note(name):$/;"	f
+name2Note	../09/mc-9-1-sk-amtpi.py	/^def name2Note(name):$/;"	f
+name2Note	../09/mc-9-2-sk-dmtpi.py	/^def name2Note(name):$/;"	f
+name2Note	../09/mc-9-3-sk-htpi.py	/^def name2Note(name):$/;"	f
+name2Note	../09/mc-9-6-tp-md-cdefg.py	/^def name2Note(name):$/;"	f
+name2Note	../09/mc-9-7-tp-hd-cdefg.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-1-sk-as.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-10-sk-asv.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-11-sk-dsv.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-12-sk-hsv.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-15-tp-md-cdefga.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-16-tp-hd-cdefga.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-17-tp-mt-cdefga.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-18-tp-ht-cdefga.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-2-sk-ds.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-3-sk-hs.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-4-sk-afi.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-5-sk-dfi.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-6-sk-hfi.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-7-sk-afo.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-8-sk-dfo.py	/^def name2Note(name):$/;"	f
+name2Note	../10/mc-10-9-sk-hfo.py	/^def name2Note(name):$/;"	f
+name2Note	../11/mc-11-01-sk-whd.py	/^def name2Note(name):$/;"	f
+name2Note	../11/mc-11-0203-sk-wmd.py	/^def name2Note(name):$/;"	f
+name2Note	../11/mc-11-04-sk-ht.py	/^def name2Note(name):$/;"	f
+name2Note	../11/mc-11-05-sk-mt.py	/^def name2Note(name):$/;"	f
+name2Note	../11/mc-11-06-sk-wht.py	/^def name2Note(name):$/;"	f
+name2Note	../11/mc-11-07-sk-wmt.py	/^def name2Note(name):$/;"	f
+name2Note	../11/mc-11-08-medi.py	/^def name2Note(name):$/;"	f
+name2Num	../14/pptraning.py	/^def name2Num(name):$/;"	f
+name2Num	../pptraning.py	/^def name2Num(name):$/;"	f
+nameNote	../07/mc-7-1-sk-c-major.py	/^def nameNote(note):$/;"	f
+nameNote	../07/mc-7-2-medi-cde.py	/^def nameNote(note):$/;"	f
+nameNote	../07/mc-7-4-tp-cde-md.py	/^def nameNote(note):$/;"	f
+nameNote	../07/mc-7-5-tp-cde-hd.py	/^def nameNote(note):$/;"	f
+nameNote	../08/mc-8-1-sk-amtpi.py	/^def nameNote(note):$/;"	f
+nameNote	../08/mc-8-2-sk-dmtpi.py	/^def nameNote(note):$/;"	f
+nameNote	../08/mc-8-3-sk-htpi.py	/^def nameNote(note):$/;"	f
+nameNote	../08/mc-8-4-medi-cdef.py	/^def nameNote(note):$/;"	f
+nameNote	../08/mc-8-5-tp-ms-cdef.py	/^def nameNote(note):$/;"	f
+nameNote	../08/mc-8-6-tp-md-cdef.py	/^def nameNote(note):$/;"	f
+nameNote	../08/mc-8-7-tp-hd-cdef.py	/^def nameNote(note):$/;"	f
+nameNote	../09/mc-9-1-sk-amtpi.py	/^def nameNote(note):$/;"	f
+nameNote	../09/mc-9-2-sk-dmtpi.py	/^def nameNote(note):$/;"	f
+nameNote	../09/mc-9-3-sk-htpi.py	/^def nameNote(note):$/;"	f
+nameNote	../09/mc-9-4-medi-cdefg.py	/^def nameNote(note):$/;"	f
+nameNote	../09/mc-9-5-tp-ms-cdefg.py	/^def nameNote(note):$/;"	f
+nameNote	../09/mc-9-6-tp-md-cdefg.py	/^def nameNote(note):$/;"	f
+nameNote	../09/mc-9-7-tp-hd-cdefg.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-1-sk-as.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-10-sk-asv.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-11-sk-dsv.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-12-sk-hsv.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-13-medi-cdefga.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-14-tp-ms-cdefga.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-15-tp-md-cdefga.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-16-tp-hd-cdefga.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-17-tp-mt-cdefga.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-18-tp-ht-cdefga.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-2-sk-ds.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-3-sk-hs.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-4-sk-afi.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-5-sk-dfi.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-6-sk-hfi.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-7-sk-afo.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-8-sk-dfo.py	/^def nameNote(note):$/;"	f
+nameNote	../10/mc-10-9-sk-hfo.py	/^def nameNote(note):$/;"	f
+nameNote	../11/mc-11-01-sk-whd.py	/^def nameNote(note):$/;"	f
+nameNote	../11/mc-11-0203-sk-wmd.py	/^def nameNote(note):$/;"	f
+nameNote	../11/mc-11-04-sk-ht.py	/^def nameNote(note):$/;"	f
+nameNote	../11/mc-11-05-sk-mt.py	/^def nameNote(note):$/;"	f
+nameNote	../11/mc-11-06-sk-wht.py	/^def nameNote(note):$/;"	f
+nameNote	../11/mc-11-07-sk-wmt.py	/^def nameNote(note):$/;"	f
+nameNote	../11/mc-11-08-medi.py	/^def nameNote(note):$/;"	f
+nameNote	../11/mc-11-09-tp-ms.py	/^def nameNote(note):$/;"	f
+nameNotes	../14/mc-14-03-whfl.py	/^nameNotes = []$/;"	v
+nameNotes	../17/mc-17-03-01-4bh-fus.py	/^nameNotes = []$/;"	v
+note	../02/mc-2-1-colorAwareness.py	/^  note=random.choice(notes)$/;"	v
+note	../03/mc-3-1-chords.py	/^  note=random.choice(opcije)$/;"	v
+note	../05/mc-5-1-sk-thirds.py	/^  note = random.choice(notes[:-2])$/;"	v
+note	../06/mc-6-1-sk-seconds.py	/^  note = random.choice(notes[:-2])$/;"	v
+note	../06/mc-6-2-sk-unlock-2-close.py	/^    note = random.choice(notes)$/;"	v
+note	../06/mc-6-3-sk-unlock-2-wide.py	/^    note = random.choice(notes)$/;"	v
+note	../06/mc-6-4-sk-unlock-3-close.py	/^    note = random.choice(notes)$/;"	v
+note	../06/mc-6-5-sk-unlock-3-wide.py	/^    note = random.choice(notes)$/;"	v
+note	../12/mc-12-01-bs.py	/^  note = random.choice(blackNotes)$/;"	v
+note	../14/mc-14-02-4w1b.py	/^    note = random.choice(blackNotes)$/;"	v
+note	../14/mc-14-02-4w1b.py	/^    note = random.choice(whiteNotes)$/;"	v
+note	../14/mc-14-05-medi.py	/^    note = random.choice(whiteNotes + customBlackNotes)$/;"	v
+note	../17/mc-17-02-3w1b.py	/^    note = random.choice(blackNotes)$/;"	v
+note	../17/mc-17-02-3w1b.py	/^    note = random.choice(whiteNotes)$/;"	v
+noteC	../07/mc-7-1-sk-c-major.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../07/mc-7-2-medi-cde.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../07/mc-7-4-tp-cde-md.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../07/mc-7-5-tp-cde-hd.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../08/mc-8-1-sk-amtpi.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../08/mc-8-2-sk-dmtpi.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../08/mc-8-3-sk-htpi.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../08/mc-8-4-medi-cdef.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../08/mc-8-5-tp-ms-cdef.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../08/mc-8-6-tp-md-cdef.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../08/mc-8-7-tp-hd-cdef.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../09/mc-9-1-sk-amtpi.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../09/mc-9-2-sk-dmtpi.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../09/mc-9-3-sk-htpi.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../09/mc-9-4-medi-cdefg.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../09/mc-9-5-tp-ms-cdefg.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../09/mc-9-6-tp-md-cdefg.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../09/mc-9-7-tp-hd-cdefg.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-1-sk-as.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-10-sk-asv.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-11-sk-dsv.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-12-sk-hsv.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-13-medi-cdefga.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-14-tp-ms-cdefga.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-15-tp-md-cdefga.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-16-tp-hd-cdefga.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-17-tp-mt-cdefga.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-18-tp-ht-cdefga.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-2-sk-ds.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-3-sk-hs.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-4-sk-afi.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-5-sk-dfi.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-6-sk-hfi.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-7-sk-afo.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-8-sk-dfo.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../10/mc-10-9-sk-hfo.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../11/mc-11-01-sk-whd.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../11/mc-11-0203-sk-wmd.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../11/mc-11-04-sk-ht.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../11/mc-11-05-sk-mt.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../11/mc-11-06-sk-wht.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../11/mc-11-07-sk-wmt.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../11/mc-11-08-medi.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../11/mc-11-09-tp-ms.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../14/pptraning.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteC	../pptraning.py	/^noteC = [ 36, 48, 60, 72, 84, 96 ]$/;"	v
+noteCount	../14/mc-14-02-4w1b.py	/^noteCount = 0$/;"	v
+noteCount	../17/mc-17-02-3w1b.py	/^noteCount = 0$/;"	v
+noteError	../12/mc-12-01-bs.py	/^        noteError = name2Num(n)$/;"	v
+noteError	../12/mc-12-01-bs.py	/^  noteError = None$/;"	v
+noteError	../14/mc-14-02-4w1b.py	/^        noteError = name2Num(n)$/;"	v
+noteError	../14/mc-14-02-4w1b.py	/^  noteError = None$/;"	v
+noteError	../14/mc-14-03-whfl.py	/^  noteError = None$/;"	v
+noteError	../14/mc-14-04-whf-pid.py	/^  noteError = None$/;"	v
+noteError	../14/mc-14-04b-whf-hpid.py	/^  noteError = None$/;"	v
+noteError	../17/mc-17-02-3w1b.py	/^        noteError = name2Num(n)$/;"	v
+noteError	../17/mc-17-02-3w1b.py	/^  noteError = None$/;"	v
+noteError	../17/mc-17-03-01-4bh-fus.py	/^  noteError = None$/;"	v
+noteError	../17/mc-17-03-02-4bh-pid.py	/^  noteError = None$/;"	v
+noteOff	../00/ppFunctions.py	/^def noteOff(midiNum):$/;"	f
+noteOffset	../00/ppFunctions.py	/^noteOffset = 60$/;"	v
+noteOffset	../05/mc-5-1-sk-thirds.py	/^noteOffset = -12$/;"	v
+noteOn	../00/ppFunctions.py	/^def noteOn(midiNum):$/;"	f
+noteOne	../12/mc-12-02-bmd.py	/^    noteOne = random.choice(blackNotes)$/;"	v
+noteOne	../12/mc-12-03-bhd.py	/^      noteOne = noteTwo$/;"	v
+noteOne	../12/mc-12-03-bhd.py	/^    noteOne = random.choice(blackNotes)$/;"	v
+noteOne	../12/mc-12-04-bth.py	/^      noteOne = random.choice(blackNotes[:-2])$/;"	v
+noteOne	../12/mc-12-05-btm.py	/^    noteOne = random.choice(blackNotes)$/;"	v
+noteOne	../14/mc-14-01-cmajor-1black.py	/^    noteOne = random.choice(blackNotes)$/;"	v
+noteThree	../06/mc-6-4-sk-unlock-3-close.py	/^      noteThree = notes[notes.index(note)+intervalOne+intervalTwo]$/;"	v
+noteThree	../06/mc-6-5-sk-unlock-3-wide.py	/^      noteThree = notes[notes.index(note)+intervalOne+intervalTwo]$/;"	v
+noteThree	../12/mc-12-04-bth.py	/^        noteThree = random.choice(blackNotes)$/;"	v
+noteThree	../12/mc-12-05-btm.py	/^        noteThree = random.choice(blackNotes)$/;"	v
+noteTimeDur	../00/ppFunctions.py	/^noteTimeDur = 1$/;"	v
+noteTwo	../05/mc-5-1-sk-thirds.py	/^  noteTwo = notes[notes.index(note)+2]$/;"	v
+noteTwo	../06/mc-6-1-sk-seconds.py	/^  noteTwo = notes[notes.index(note)+1]$/;"	v
+noteTwo	../06/mc-6-2-sk-unlock-2-close.py	/^      noteTwo = notes[notes.index(note)+interval]$/;"	v
+noteTwo	../06/mc-6-3-sk-unlock-2-wide.py	/^      noteTwo = notes[notes.index(note)+interval]$/;"	v
+noteTwo	../06/mc-6-4-sk-unlock-3-close.py	/^      noteTwo = notes[notes.index(note)+intervalOne]$/;"	v
+noteTwo	../06/mc-6-5-sk-unlock-3-wide.py	/^      noteTwo = notes[notes.index(note)+intervalOne]$/;"	v
+noteTwo	../12/mc-12-02-bmd.py	/^      noteTwo = random.choice(blackNotes)$/;"	v
+noteTwo	../12/mc-12-03-bhd.py	/^      noteTwo = random.choice(blackNotes)$/;"	v
+noteTwo	../12/mc-12-03-bhd.py	/^      noteTwo = swap$/;"	v
+noteTwo	../12/mc-12-04-bth.py	/^        noteTwo = random.choice(blackNotes[:-1])$/;"	v
+noteTwo	../12/mc-12-05-btm.py	/^        noteTwo = random.choice(blackNotes)$/;"	v
+notes	../02/mc-2-1-colorAwareness.py	/^notes = [ 60+notesOffset, 62+notesOffset, 64+notesOffset, 65+notesOffset, 67+notesOffset, 69+notesOffset, 71+notesOffset ]$/;"	v
+notes	../03/mc-3-1-chords.py	/^notes = [ 60+toneOffset, 62+toneOffset, 64+toneOffset, 65+toneOffset, 67+toneOffset, 69+toneOffset, 71+toneOffset ]$/;"	v
+notes	../05/mc-5-1-sk-thirds.py	/^notes = [ 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76 ]$/;"	v
+notes	../06/mc-6-1-sk-seconds.py	/^notes = [ 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76 ]$/;"	v
+notes	../06/mc-6-2-sk-unlock-2-close.py	/^notes = [ 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84 ]$/;"	v
+notes	../06/mc-6-3-sk-unlock-2-wide.py	/^notes = [ 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84 ]$/;"	v
+notes	../06/mc-6-4-sk-unlock-3-close.py	/^notes = [ 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84 ]$/;"	v
+notes	../06/mc-6-5-sk-unlock-3-wide.py	/^notes = [ 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84 ]$/;"	v
+notes	../07/mc-7-1-sk-c-major.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../07/mc-7-2-medi-cde.py	/^notes = [60, 62, 64 ]$/;"	v
+notes	../07/mc-7-4-tp-cde-md.py	/^notes = [ 36, 38, 40, 48, 50, 52, 60, 62, 64, 72, 74, 76, 84, 86, 88, 96 ]$/;"	v
+notes	../07/mc-7-5-tp-cde-hd.py	/^notes = [ 36, 38, 40, 48, 50, 52, 60, 62, 64, 72, 74, 76, 84, 86, 88, 96 ]$/;"	v
+notes	../08/mc-8-1-sk-amtpi.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../08/mc-8-2-sk-dmtpi.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../08/mc-8-3-sk-htpi.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../08/mc-8-4-medi-cdef.py	/^notes = [60, 62, 64, 65 ]$/;"	v
+notes	../08/mc-8-5-tp-ms-cdef.py	/^notes = [ 36, 38, 40, 41, 48, 50, 52, 53, 60, 62, 64, 65, 72, 74, 76, 77, 84, 86, 88, 89, 96 ]$/;"	v
+notes	../08/mc-8-6-tp-md-cdef.py	/^notes = [ 36, 38, 40, 41, 48, 50, 52, 53, 60, 62, 64, 65, 72, 74, 76, 77, 84, 86, 88, 89, 96 ]$/;"	v
+notes	../08/mc-8-7-tp-hd-cdef.py	/^notes = [ 36, 38, 40, 41, 48, 50, 52, 53, 60, 62, 64, 65, 72, 74, 76, 77, 84, 86, 88, 89, 96 ]$/;"	v
+notes	../09/mc-9-1-sk-amtpi.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../09/mc-9-2-sk-dmtpi.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../09/mc-9-3-sk-htpi.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../09/mc-9-4-medi-cdefg.py	/^notes = [60, 62, 64, 65, 67 ]$/;"	v
+notes	../09/mc-9-5-tp-ms-cdefg.py	/^notes = [ 36, 38, 40, 41, 43, 48, 50, 52, 53, 55, 60, 62, 64, 65, 67, 72, 74, 76, 77, 79, 84, 86, 88, 89, 91, 96 ]$/;"	v
+notes	../09/mc-9-6-tp-md-cdefg.py	/^notes = [ 36, 38, 40, 41, 43, 48, 50, 52, 53, 55, 60, 62, 64, 65, 67, 72, 74, 76, 77, 79, 84, 86, 88, 89, 91, 96 ]$/;"	v
+notes	../09/mc-9-7-tp-hd-cdefg.py	/^notes = [ 36, 38, 40, 41, 43, 48, 50, 52, 53, 55, 60, 62, 64, 65, 67, 72, 74, 76, 77, 79, 84, 86, 88, 89, 91, 96 ]$/;"	v
+notes	../10/mc-10-1-sk-as.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-10-sk-asv.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-11-sk-dsv.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-12-sk-hsv.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-13-medi-cdefga.py	/^notes = [60, 62, 64, 65, 67, 69 ]$/;"	v
+notes	../10/mc-10-14-tp-ms-cdefga.py	/^notes = [ 36, 38, 40, 41, 43, 45, 48, 50, 52, 53, 55, 57, 60, 62, 64, 65, 67, 69, 72, 74, 76, 77, 79, 81, 84, 86, 88, 89, 91, 93, 96 ]$/;"	v
+notes	../10/mc-10-15-tp-md-cdefga.py	/^notes = [ 36, 38, 40, 41, 43, 45, 48, 50, 52, 53, 55, 57, 60, 62, 64, 65, 67, 69, 72, 74, 76, 77, 79, 81, 84, 86, 88, 89, 91, 93, 96 ]$/;"	v
+notes	../10/mc-10-16-tp-hd-cdefga.py	/^notes = [ 36, 38, 40, 41, 43, 45, 48, 50, 52, 53, 55, 57, 60, 62, 64, 65, 67, 69, 72, 74, 76, 77, 79, 81, 84, 86, 88, 89, 91, 93, 96 ]$/;"	v
+notes	../10/mc-10-17-tp-mt-cdefga.py	/^notes = [ 36, 38, 40, 41, 43, 45, 48, 50, 52, 53, 55, 57, 60, 62, 64, 65, 67, 69, 72, 74, 76, 77, 79, 81, 84, 86, 88, 89, 91, 93, 96 ]$/;"	v
+notes	../10/mc-10-18-tp-ht-cdefga.py	/^notes = [ 36, 38, 40, 41, 43, 45, 48, 50, 52, 53, 55, 57, 60, 62, 64, 65, 67, 69, 72, 74, 76, 77, 79, 81, 84, 86, 88, 89, 91, 93, 96 ]$/;"	v
+notes	../10/mc-10-2-sk-ds.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-3-sk-hs.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-4-sk-afi.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-5-sk-dfi.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-6-sk-hfi.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-7-sk-afo.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-8-sk-dfo.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../10/mc-10-9-sk-hfo.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../11/mc-11-01-sk-whd.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../11/mc-11-0203-sk-wmd.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../11/mc-11-04-sk-ht.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../11/mc-11-05-sk-mt.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../11/mc-11-06-sk-wht.py	/^notes = [ 36, 38, 40, 41, 43, 45, 48, 50, 52, 53, 55, 57, 60, 62, 64, 65, 67, 69, 72, 74, 76, 77, 79, 81, 84, 86, 88, 89, 91, 93, 96 ]$/;"	v
+notes	../11/mc-11-07-sk-wmt.py	/^notes = [ 36, 38, 40, 41, 43, 45, 48, 50, 52, 53, 55, 57, 60, 62, 64, 65, 67, 69, 72, 74, 76, 77, 79, 81, 84, 86, 88, 89, 91, 93, 96 ]$/;"	v
+notes	../11/mc-11-08-medi.py	/^notes = [60, 62, 64, 65, 67, 69, 71 ]$/;"	v
+notes	../11/mc-11-09-tp-ms.py	/^notes = [ 36, 38, 40, 41, 43, 45, 47, 48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74, 76, 77, 79, 81, 83, 84, 86, 88, 89, 91, 93, 95, 96 ]$/;"	v
+notes	../14/mc-14-03-whfl.py	/^    notes = []$/;"	v
+notes	../14/mc-14-04-whf-pid.py	/^    notes = []$/;"	v
+notes	../14/mc-14-04b-whf-hpid.py	/^    notes = []$/;"	v
+notes	../17/mc-17-03-01-4bh-fus.py	/^    notes = []$/;"	v
+notes	../17/mc-17-03-02-4bh-pid.py	/^    notes = []$/;"	v
+notesOffset	../02/mc-2-1-colorAwareness.py	/^notesOffset = -24$/;"	v
+num2Name	../14/pptraning.py	/^def num2Name(note):$/;"	f
+num2Name	../pptraning.py	/^def num2Name(note):$/;"	f
+opcije	../03/mc-3-1-chords.py	/^opcije = [ fis, es ]$/;"	v
+os	../16/mc-16-01-01-cmajor-1black.py	/^import os$/;"	i
+os	../16/mc-16-01-02-dmajor-1black.py	/^import os$/;"	i
+os	../16/mc-16-01-03-emajor-1black.py	/^import os$/;"	i
+os	../16/mc-16-01-04-fmajor-1black.py	/^import os$/;"	i
+os	../16/mc-16-01-05-gmajor-1black.py	/^import os$/;"	i
+os	../16/mc-16-01-06-amajor-1black.py	/^import os$/;"	i
+os	../16/mc-16-01-07-hmajor-1black.py	/^import os$/;"	i
+os	../16/mc-16-01-08-1major-1black.py	/^import os$/;"	i
+os	../16/mc-16-02-01-cismajor-1white.py	/^import os$/;"	i
+os	../16/mc-16-02-02-esmajor-1white.py	/^import os$/;"	i
+os	../16/mc-16-02-03-fismajor-1white.py	/^import os$/;"	i
+os	../16/mc-16-02-04-asmajor-1white.py	/^import os$/;"	i
+os	../16/mc-16-02-05-bmajor-1white.py	/^import os$/;"	i
+os	../16/mc-16-02-06-1major-1white.py	/^import os$/;"	i
+os	../16/mc-16-03-medi-cmajor-as-doubles.py	/^import os$/;"	i
+os	../16/mc-16-04-01-st-hdfas.py	/^import os$/;"	i
+os	../16/mc-16-04-02-dmt-hdfas.py	/^import os$/;"	i
+os	../16/mc-16-04-03-tmt-hdfas.py	/^import os$/;"	i
+os	../16/mc-16-04-04-dht-hdfas.py	/^import os$/;"	i
+os	../16/mc-16-04-05-tht-hdfas.py	/^import os$/;"	i
+os	../17/mc-17-01-cmajor-2bh.py	/^import os$/;"	i
+os	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^import os$/;"	i
+os	../17/mc-17-05-01-st-hdfasc.py	/^import os$/;"	i
+os	../17/mc-17-05-02-dmt-hdfasc.py	/^import os$/;"	i
+os	../17/mc-17-05-03-tmt-hdfasc.py	/^import os$/;"	i
+os	../17/mc-17-05-04-dht-hdfasc.py	/^import os$/;"	i
+os	../17/mc-17-05-05-tht-hdfasc.py	/^import os$/;"	i
+play2Notes	../08/mc-8-3-sk-htpi.py	/^def play2Notes(noteOne, noteTwo):$/;"	f
+play2Notes	../09/mc-9-3-sk-htpi.py	/^def play2Notes(noteOne, noteTwo):$/;"	f
+play2Notes	../10/mc-10-12-sk-hsv.py	/^def play2Notes(noteOne, noteTwo):$/;"	f
+play2Notes	../10/mc-10-3-sk-hs.py	/^def play2Notes(noteOne, noteTwo):$/;"	f
+play2Notes	../10/mc-10-6-sk-hfi.py	/^def play2Notes(noteOne, noteTwo):$/;"	f
+play2Notes	../10/mc-10-9-sk-hfo.py	/^def play2Notes(noteOne, noteTwo):$/;"	f
+playFourNotes	../14/pptraning.py	/^def playFourNotes(notes):$/;"	f
+playFourNotes	../pptraning.py	/^def playFourNotes(notes):$/;"	f
+playHarmonicNotes	../00/ppFunctions.py	/^def playHarmonicNotes(midiTup):$/;"	f
+playMelodicNotes	../00/ppFunctions.py	/^def playMelodicNotes(midiTup):$/;"	f
+playNote	../00/ppFunctions.py	/^def playNote(midiNum):$/;"	f
+playNote	../07/mc-7-1-sk-c-major.py	/^def playNote(note):$/;"	f
+playNote	../07/mc-7-2-medi-cde.py	/^def playNote(note):$/;"	f
+playNote	../07/mc-7-4-tp-cde-md.py	/^def playNote(note):$/;"	f
+playNote	../07/mc-7-5-tp-cde-hd.py	/^def playNote(note):$/;"	f
+playNote	../08/mc-8-1-sk-amtpi.py	/^def playNote(note):$/;"	f
+playNote	../08/mc-8-2-sk-dmtpi.py	/^def playNote(note):$/;"	f
+playNote	../08/mc-8-3-sk-htpi.py	/^def playNote(note):$/;"	f
+playNote	../08/mc-8-4-medi-cdef.py	/^def playNote(note):$/;"	f
+playNote	../08/mc-8-5-tp-ms-cdef.py	/^def playNote(note):$/;"	f
+playNote	../08/mc-8-6-tp-md-cdef.py	/^def playNote(note):$/;"	f
+playNote	../08/mc-8-7-tp-hd-cdef.py	/^def playNote(note):$/;"	f
+playNote	../09/mc-9-1-sk-amtpi.py	/^def playNote(note):$/;"	f
+playNote	../09/mc-9-2-sk-dmtpi.py	/^def playNote(note):$/;"	f
+playNote	../09/mc-9-3-sk-htpi.py	/^def playNote(note):$/;"	f
+playNote	../09/mc-9-4-medi-cdefg.py	/^def playNote(note):$/;"	f
+playNote	../09/mc-9-5-tp-ms-cdefg.py	/^def playNote(note):$/;"	f
+playNote	../09/mc-9-6-tp-md-cdefg.py	/^def playNote(note):$/;"	f
+playNote	../09/mc-9-7-tp-hd-cdefg.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-1-sk-as.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-10-sk-asv.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-11-sk-dsv.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-12-sk-hsv.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-13-medi-cdefga.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-14-tp-ms-cdefga.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-15-tp-md-cdefga.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-16-tp-hd-cdefga.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-17-tp-mt-cdefga.py	/^def playNote(noteOne, noteTwo, noteThree):$/;"	f
+playNote	../10/mc-10-18-tp-ht-cdefga.py	/^def playNote(noteOne, noteTwo, noteThree):$/;"	f
+playNote	../10/mc-10-2-sk-ds.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-3-sk-hs.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-4-sk-afi.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-5-sk-dfi.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-6-sk-hfi.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-7-sk-afo.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-8-sk-dfo.py	/^def playNote(note):$/;"	f
+playNote	../10/mc-10-9-sk-hfo.py	/^def playNote(note):$/;"	f
+playNote	../11/mc-11-01-sk-whd.py	/^def playNote(note):$/;"	f
+playNote	../11/mc-11-0203-sk-wmd.py	/^def playNote(note):$/;"	f
+playNote	../11/mc-11-04-sk-ht.py	/^def playNote(noteOne, noteTwo, noteThree):$/;"	f
+playNote	../11/mc-11-05-sk-mt.py	/^def playNote(noteOne, noteTwo, noteThree):$/;"	f
+playNote	../11/mc-11-06-sk-wht.py	/^def playNote(noteOne, noteTwo, noteThree):$/;"	f
+playNote	../11/mc-11-07-sk-wmt.py	/^def playNote(noteOne, noteTwo, noteThree):$/;"	f
+playNote	../11/mc-11-08-medi.py	/^def playNote(note):$/;"	f
+playNote	../11/mc-11-09-tp-ms.py	/^def playNote(note):$/;"	f
+playNote	../14/pptraning.py	/^def playNote(note):$/;"	f
+playNote	../pptraning.py	/^def playNote(note):$/;"	f
+playThreeNotes	../14/pptraning.py	/^def playThreeNotes(noteOne, noteTwo, noteThree):$/;"	f
+playThreeNotes	../pptraning.py	/^def playThreeNotes(noteOne, noteTwo, noteThree):$/;"	f
+playTwoNote	../11/mc-11-01-sk-whd.py	/^def playTwoNote(noteOne, noteTwo):$/;"	f
+playTwoNotes	../07/mc-7-5-tp-cde-hd.py	/^def playTwoNotes(noteOne, noteTwo):$/;"	f
+playTwoNotes	../08/mc-8-7-tp-hd-cdef.py	/^def playTwoNotes(noteOne, noteTwo):$/;"	f
+playTwoNotes	../09/mc-9-7-tp-hd-cdefg.py	/^def playTwoNotes(noteOne, noteTwo):$/;"	f
+playTwoNotes	../10/mc-10-16-tp-hd-cdefga.py	/^def playTwoNotes(noteOne, noteTwo):$/;"	f
+playTwoNotes	../14/pptraning.py	/^def playTwoNotes(noteOne, noteTwo):$/;"	f
+playTwoNotes	../pptraning.py	/^def playTwoNotes(noteOne, noteTwo):$/;"	f
+ppFunctions	../02/mc-2-1-colorAwareness2.py	/^from . import ppFunctions$/;"	i
+print_help	../16/mc-16-01-01-cmajor-1black.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-01-02-dmajor-1black.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-01-03-emajor-1black.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-01-04-fmajor-1black.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-01-05-gmajor-1black.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-01-06-amajor-1black.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-01-07-hmajor-1black.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-01-08-1major-1black.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-02-01-cismajor-1white.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-02-02-esmajor-1white.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-02-03-fismajor-1white.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-02-04-asmajor-1white.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-02-05-bmajor-1white.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-02-06-1major-1white.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-03-medi-cmajor-as-doubles.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-04-01-st-hdfas.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-04-02-dmt-hdfas.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-04-03-tmt-hdfas.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-04-04-dht-hdfas.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../16/mc-16-04-05-tht-hdfas.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../17/mc-17-01-cmajor-2bh.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../17/mc-17-05-01-st-hdfasc.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../17/mc-17-05-02-dmt-hdfasc.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../17/mc-17-05-03-tmt-hdfasc.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../17/mc-17-05-04-dht-hdfasc.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_help	../17/mc-17-05-05-tht-hdfasc.py	/^print_help = lambda x: cprint(x, 'red')$/;"	v
+print_logo	../00/logo.py	/^def print_logo():$/;"	f
+print_status	../16/mc-16-01-01-cmajor-1black.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-01-02-dmajor-1black.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-01-03-emajor-1black.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-01-04-fmajor-1black.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-01-05-gmajor-1black.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-01-06-amajor-1black.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-01-07-hmajor-1black.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-01-08-1major-1black.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-02-01-cismajor-1white.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-02-02-esmajor-1white.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-02-03-fismajor-1white.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-02-04-asmajor-1white.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-02-05-bmajor-1white.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-02-06-1major-1white.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-03-medi-cmajor-as-doubles.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-04-01-st-hdfas.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-04-02-dmt-hdfas.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-04-03-tmt-hdfas.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-04-04-dht-hdfas.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../16/mc-16-04-05-tht-hdfas.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../17/mc-17-01-cmajor-2bh.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../17/mc-17-05-01-st-hdfasc.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../17/mc-17-05-02-dmt-hdfasc.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../17/mc-17-05-03-tmt-hdfasc.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../17/mc-17-05-04-dht-hdfasc.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+print_status	../17/mc-17-05-05-tht-hdfasc.py	/^print_status = lambda x: cprint(x, 'white', 'on_blue')$/;"	v
+random	../00/ppFunctions.py	/^import random$/;"	i
+random	../02/mc-2-1-colorAwareness.py	/^import random$/;"	i
+random	../03/mc-3-1-chords.py	/^import random$/;"	i
+random	../05/mc-5-1-sk-thirds.py	/^import random$/;"	i
+random	../06/mc-6-1-sk-seconds.py	/^import random$/;"	i
+random	../06/mc-6-2-sk-unlock-2-close.py	/^import random$/;"	i
+random	../06/mc-6-3-sk-unlock-2-wide.py	/^import random$/;"	i
+random	../06/mc-6-4-sk-unlock-3-close.py	/^import random$/;"	i
+random	../06/mc-6-5-sk-unlock-3-wide.py	/^import random$/;"	i
+random	../07/mc-7-1-sk-c-major.py	/^import random$/;"	i
+random	../07/mc-7-2-medi-cde.py	/^import random$/;"	i
+random	../07/mc-7-4-tp-cde-md.py	/^import random$/;"	i
+random	../07/mc-7-5-tp-cde-hd.py	/^import random$/;"	i
+random	../08/mc-8-1-sk-amtpi.py	/^import random$/;"	i
+random	../08/mc-8-2-sk-dmtpi.py	/^import random$/;"	i
+random	../08/mc-8-3-sk-htpi.py	/^import random$/;"	i
+random	../08/mc-8-4-medi-cdef.py	/^import random$/;"	i
+random	../08/mc-8-5-tp-ms-cdef.py	/^import random$/;"	i
+random	../08/mc-8-6-tp-md-cdef.py	/^import random$/;"	i
+random	../08/mc-8-7-tp-hd-cdef.py	/^import random$/;"	i
+random	../09/mc-9-1-sk-amtpi.py	/^import random$/;"	i
+random	../09/mc-9-2-sk-dmtpi.py	/^import random$/;"	i
+random	../09/mc-9-3-sk-htpi.py	/^import random$/;"	i
+random	../09/mc-9-4-medi-cdefg.py	/^import random$/;"	i
+random	../09/mc-9-5-tp-ms-cdefg.py	/^import random$/;"	i
+random	../09/mc-9-6-tp-md-cdefg.py	/^import random$/;"	i
+random	../09/mc-9-7-tp-hd-cdefg.py	/^import random$/;"	i
+random	../10/mc-10-1-sk-as.py	/^import random$/;"	i
+random	../10/mc-10-10-sk-asv.py	/^import random$/;"	i
+random	../10/mc-10-11-sk-dsv.py	/^import random$/;"	i
+random	../10/mc-10-12-sk-hsv.py	/^import random$/;"	i
+random	../10/mc-10-13-medi-cdefga.py	/^import random$/;"	i
+random	../10/mc-10-14-tp-ms-cdefga.py	/^import random$/;"	i
+random	../10/mc-10-15-tp-md-cdefga.py	/^import random$/;"	i
+random	../10/mc-10-16-tp-hd-cdefga.py	/^import random$/;"	i
+random	../10/mc-10-17-tp-mt-cdefga.py	/^import random$/;"	i
+random	../10/mc-10-18-tp-ht-cdefga.py	/^import random$/;"	i
+random	../10/mc-10-2-sk-ds.py	/^import random$/;"	i
+random	../10/mc-10-3-sk-hs.py	/^import random$/;"	i
+random	../10/mc-10-4-sk-afi.py	/^import random$/;"	i
+random	../10/mc-10-5-sk-dfi.py	/^import random$/;"	i
+random	../10/mc-10-6-sk-hfi.py	/^import random$/;"	i
+random	../10/mc-10-7-sk-afo.py	/^import random$/;"	i
+random	../10/mc-10-8-sk-dfo.py	/^import random$/;"	i
+random	../10/mc-10-9-sk-hfo.py	/^import random$/;"	i
+random	../11/mc-11-01-sk-whd.py	/^import random$/;"	i
+random	../11/mc-11-0203-sk-wmd.py	/^import random$/;"	i
+random	../11/mc-11-04-sk-ht.py	/^import random$/;"	i
+random	../11/mc-11-05-sk-mt.py	/^import random$/;"	i
+random	../11/mc-11-06-sk-wht.py	/^import random$/;"	i
+random	../11/mc-11-07-sk-wmt.py	/^import random$/;"	i
+random	../11/mc-11-08-medi.py	/^import random$/;"	i
+random	../11/mc-11-09-tp-ms.py	/^import random$/;"	i
+random	../12/mc-12-01-bs.py	/^import random$/;"	i
+random	../12/mc-12-02-bmd.py	/^import random$/;"	i
+random	../12/mc-12-03-bhd.py	/^import random$/;"	i
+random	../12/mc-12-04-bth.py	/^import random$/;"	i
+random	../12/mc-12-05-btm.py	/^import random$/;"	i
+random	../14/mc-14-01-cmajor-1black.py	/^import random$/;"	i
+random	../14/mc-14-02-4w1b.py	/^import random$/;"	i
+random	../14/mc-14-03-whfl.py	/^import random$/;"	i
+random	../14/mc-14-04-whf-pid.py	/^import random$/;"	i
+random	../14/mc-14-04b-whf-hpid.py	/^import random$/;"	i
+random	../14/mc-14-05-medi.py	/^import random$/;"	i
+random	../16/mc-16-01-01-cmajor-1black.py	/^import random$/;"	i
+random	../16/mc-16-01-02-dmajor-1black.py	/^import random$/;"	i
+random	../16/mc-16-01-03-emajor-1black.py	/^import random$/;"	i
+random	../16/mc-16-01-04-fmajor-1black.py	/^import random$/;"	i
+random	../16/mc-16-01-05-gmajor-1black.py	/^import random$/;"	i
+random	../16/mc-16-01-06-amajor-1black.py	/^import random$/;"	i
+random	../16/mc-16-01-07-hmajor-1black.py	/^import random$/;"	i
+random	../16/mc-16-01-08-1major-1black.py	/^import random$/;"	i
+random	../16/mc-16-02-01-cismajor-1white.py	/^import random$/;"	i
+random	../16/mc-16-02-02-esmajor-1white.py	/^import random$/;"	i
+random	../16/mc-16-02-03-fismajor-1white.py	/^import random$/;"	i
+random	../16/mc-16-02-04-asmajor-1white.py	/^import random$/;"	i
+random	../16/mc-16-02-05-bmajor-1white.py	/^import random$/;"	i
+random	../16/mc-16-02-06-1major-1white.py	/^import random$/;"	i
+random	../16/mc-16-03-medi-cmajor-as-doubles.py	/^import random$/;"	i
+random	../16/mc-16-04-01-st-hdfas.py	/^import random$/;"	i
+random	../16/mc-16-04-02-dmt-hdfas.py	/^import random$/;"	i
+random	../16/mc-16-04-03-tmt-hdfas.py	/^import random$/;"	i
+random	../16/mc-16-04-04-dht-hdfas.py	/^import random$/;"	i
+random	../16/mc-16-04-05-tht-hdfas.py	/^import random$/;"	i
+random	../17/mc-17-01-cmajor-2bh.py	/^import random$/;"	i
+random	../17/mc-17-02-3w1b.py	/^import random$/;"	i
+random	../17/mc-17-03-01-4bh-fus.py	/^import random$/;"	i
+random	../17/mc-17-03-02-4bh-pid.py	/^import random$/;"	i
+random	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^import random$/;"	i
+random	../17/mc-17-05-01-st-hdfasc.py	/^import random$/;"	i
+random	../17/mc-17-05-02-dmt-hdfasc.py	/^import random$/;"	i
+random	../17/mc-17-05-03-tmt-hdfasc.py	/^import random$/;"	i
+random	../17/mc-17-05-04-dht-hdfasc.py	/^import random$/;"	i
+random	../17/mc-17-05-05-tht-hdfasc.py	/^import random$/;"	i
+randomChord	../16/mc-16-01-08-1major-1black.py	/^    randomChord = random.choice(generatedChords)$/;"	v
+randomChord	../16/mc-16-02-06-1major-1white.py	/^    randomChord = random.choice(generatedChords)$/;"	v
+randomNote	../16/mc-16-01-01-cmajor-1black.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-01-02-dmajor-1black.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-01-03-emajor-1black.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-01-04-fmajor-1black.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-01-05-gmajor-1black.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-01-06-amajor-1black.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-01-07-hmajor-1black.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-01-08-1major-1black.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-02-01-cismajor-1white.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-02-02-esmajor-1white.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-02-03-fismajor-1white.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-02-04-asmajor-1white.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-02-05-bmajor-1white.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-02-06-1major-1white.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-03-medi-cmajor-as-doubles.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../16/mc-16-04-01-st-hdfas.py	/^    randomNote = stringToMidiNum(random.choice(generatedList))$/;"	v
+randomNote	../16/mc-16-04-02-dmt-hdfas.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNote	../17/mc-17-05-01-st-hdfasc.py	/^    randomNote = stringToMidiNum(random.choice(generatedList))$/;"	v
+randomNote	../17/mc-17-05-02-dmt-hdfasc.py	/^    randomNote = random.choice(generatedList)$/;"	v
+randomNoteTwo	../16/mc-16-03-medi-cmajor-as-doubles.py	/^    randomNoteTwo = random.choice(generatedListTwo)$/;"	v
+randomNoteTwo	../16/mc-16-04-02-dmt-hdfas.py	/^    randomNoteTwo = random.choice(generatedListTwo)$/;"	v
+randomNoteTwo	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^    randomNoteTwo = random.choice(generatedListTwo)$/;"	v
+randomNoteTwo	../17/mc-17-05-02-dmt-hdfasc.py	/^    randomNoteTwo = random.choice(generatedListTwo)$/;"	v
+randomNotes	../16/mc-16-04-03-tmt-hdfas.py	/^    randomNotes = []$/;"	v
+randomNotes	../16/mc-16-04-04-dht-hdfas.py	/^    randomNotes = []$/;"	v
+randomNotes	../16/mc-16-04-05-tht-hdfas.py	/^    randomNotes = []$/;"	v
+randomNotes	../17/mc-17-01-cmajor-2bh.py	/^    randomNotes = generateRandomNotesFromGivenList(2, generatedList)$/;"	v
+randomNotes	../17/mc-17-05-03-tmt-hdfasc.py	/^    randomNotes = []$/;"	v
+randomNotes	../17/mc-17-05-04-dht-hdfasc.py	/^    randomNotes = []$/;"	v
+randomNotes	../17/mc-17-05-05-tht-hdfasc.py	/^    randomNotes = []$/;"	v
+re	../00/ppFunctions.py	/^import re$/;"	i
+re	../07/mc-7-4-tp-cde-md.py	/^import re$/;"	i
+re	../07/mc-7-5-tp-cde-hd.py	/^import re$/;"	i
+re	../08/mc-8-1-sk-amtpi.py	/^import re$/;"	i
+re	../08/mc-8-2-sk-dmtpi.py	/^import re$/;"	i
+re	../08/mc-8-3-sk-htpi.py	/^import re$/;"	i
+re	../08/mc-8-6-tp-md-cdef.py	/^import re$/;"	i
+re	../08/mc-8-7-tp-hd-cdef.py	/^import re$/;"	i
+re	../09/mc-9-1-sk-amtpi.py	/^import re$/;"	i
+re	../09/mc-9-2-sk-dmtpi.py	/^import re$/;"	i
+re	../09/mc-9-3-sk-htpi.py	/^import re$/;"	i
+re	../09/mc-9-6-tp-md-cdefg.py	/^import re$/;"	i
+re	../09/mc-9-7-tp-hd-cdefg.py	/^import re$/;"	i
+re	../10/mc-10-1-sk-as.py	/^import re$/;"	i
+re	../10/mc-10-10-sk-asv.py	/^import re$/;"	i
+re	../10/mc-10-11-sk-dsv.py	/^import re$/;"	i
+re	../10/mc-10-12-sk-hsv.py	/^import re$/;"	i
+re	../10/mc-10-15-tp-md-cdefga.py	/^import re$/;"	i
+re	../10/mc-10-16-tp-hd-cdefga.py	/^import re$/;"	i
+re	../10/mc-10-17-tp-mt-cdefga.py	/^import re$/;"	i
+re	../10/mc-10-18-tp-ht-cdefga.py	/^import re$/;"	i
+re	../10/mc-10-2-sk-ds.py	/^import re$/;"	i
+re	../10/mc-10-3-sk-hs.py	/^import re$/;"	i
+re	../10/mc-10-4-sk-afi.py	/^import re$/;"	i
+re	../10/mc-10-5-sk-dfi.py	/^import re$/;"	i
+re	../10/mc-10-6-sk-hfi.py	/^import re$/;"	i
+re	../10/mc-10-7-sk-afo.py	/^import re$/;"	i
+re	../10/mc-10-8-sk-dfo.py	/^import re$/;"	i
+re	../10/mc-10-9-sk-hfo.py	/^import re$/;"	i
+re	../11/mc-11-01-sk-whd.py	/^import re$/;"	i
+re	../11/mc-11-0203-sk-wmd.py	/^import re$/;"	i
+re	../11/mc-11-04-sk-ht.py	/^import re$/;"	i
+re	../11/mc-11-05-sk-mt.py	/^import re$/;"	i
+re	../11/mc-11-06-sk-wht.py	/^import re$/;"	i
+re	../11/mc-11-07-sk-wmt.py	/^import re$/;"	i
+re	../11/mc-11-08-medi.py	/^import re$/;"	i
+re	../14/mc-14-01-cmajor-1black.py	/^import re$/;"	i
+re	../14/pptraning.py	/^import re$/;"	i
+re	../pptraning.py	/^import re$/;"	i
+regFlat	../14/pptraning.py	/^regFlat = re.compile("^[a-h]es$|^[a-h]s$|b")$/;"	v
+regFlat	../pptraning.py	/^regFlat = re.compile("^[a-h]es$|^[a-h]s$|b")$/;"	v
+regSharp	../14/pptraning.py	/^regSharp = re.compile("^[a-h]is$")$/;"	v
+regSharp	../pptraning.py	/^regSharp = re.compile("^[a-h]is$")$/;"	v
+regWhite	../14/pptraning.py	/^regWhite = re.compile("^[a-h]$")$/;"	v
+regWhite	../pptraning.py	/^regWhite = re.compile("^[a-h]$")$/;"	v
+round	../07/mc-7-2-medi-cde.py	/^round = 1$/;"	v
+round	../07/mc-7-4-tp-cde-md.py	/^round = 1$/;"	v
+round	../07/mc-7-5-tp-cde-hd.py	/^round = 1$/;"	v
+round	../08/mc-8-1-sk-amtpi.py	/^round = 1$/;"	v
+round	../08/mc-8-2-sk-dmtpi.py	/^round = 1$/;"	v
+round	../08/mc-8-3-sk-htpi.py	/^round = 1$/;"	v
+round	../08/mc-8-4-medi-cdef.py	/^round = 1$/;"	v
+round	../08/mc-8-6-tp-md-cdef.py	/^round = 1$/;"	v
+round	../08/mc-8-7-tp-hd-cdef.py	/^round = 1$/;"	v
+round	../09/mc-9-1-sk-amtpi.py	/^round = 1$/;"	v
+round	../09/mc-9-2-sk-dmtpi.py	/^round = 1$/;"	v
+round	../09/mc-9-3-sk-htpi.py	/^round = 1$/;"	v
+round	../09/mc-9-4-medi-cdefg.py	/^round = 1$/;"	v
+round	../09/mc-9-6-tp-md-cdefg.py	/^round = 1$/;"	v
+round	../09/mc-9-7-tp-hd-cdefg.py	/^round = 1$/;"	v
+round	../10/mc-10-1-sk-as.py	/^round = 1$/;"	v
+round	../10/mc-10-10-sk-asv.py	/^round = 1$/;"	v
+round	../10/mc-10-11-sk-dsv.py	/^round = 1$/;"	v
+round	../10/mc-10-12-sk-hsv.py	/^round = 1$/;"	v
+round	../10/mc-10-13-medi-cdefga.py	/^round = 1$/;"	v
+round	../10/mc-10-15-tp-md-cdefga.py	/^round = 1$/;"	v
+round	../10/mc-10-16-tp-hd-cdefga.py	/^round = 1$/;"	v
+round	../10/mc-10-17-tp-mt-cdefga.py	/^round = 1$/;"	v
+round	../10/mc-10-18-tp-ht-cdefga.py	/^round = 1$/;"	v
+round	../10/mc-10-2-sk-ds.py	/^round = 1$/;"	v
+round	../10/mc-10-3-sk-hs.py	/^round = 1$/;"	v
+round	../10/mc-10-4-sk-afi.py	/^round = 1$/;"	v
+round	../10/mc-10-5-sk-dfi.py	/^round = 1$/;"	v
+round	../10/mc-10-6-sk-hfi.py	/^round = 1$/;"	v
+round	../10/mc-10-7-sk-afo.py	/^round = 1$/;"	v
+round	../10/mc-10-8-sk-dfo.py	/^round = 1$/;"	v
+round	../10/mc-10-9-sk-hfo.py	/^round = 1$/;"	v
+round	../11/mc-11-01-sk-whd.py	/^round = 1$/;"	v
+round	../11/mc-11-0203-sk-wmd.py	/^round = 1$/;"	v
+round	../11/mc-11-04-sk-ht.py	/^round = 1$/;"	v
+round	../11/mc-11-05-sk-mt.py	/^round = 1$/;"	v
+round	../11/mc-11-06-sk-wht.py	/^round = 1$/;"	v
+round	../11/mc-11-07-sk-wmt.py	/^round = 1$/;"	v
+round	../11/mc-11-08-medi.py	/^round = 1$/;"	v
+round	../12/mc-12-02-bmd.py	/^round = 1$/;"	v
+round	../12/mc-12-03-bhd.py	/^round = 1$/;"	v
+round	../12/mc-12-04-bth.py	/^round = 1$/;"	v
+round	../12/mc-12-05-btm.py	/^round = 1$/;"	v
+round	../14/mc-14-01-cmajor-1black.py	/^            round = 1$/;"	v
+round	../14/mc-14-01-cmajor-1black.py	/^round = 1$/;"	v
+round	../14/mc-14-05-medi.py	/^round = 1$/;"	v
+rounde	../16/mc-16-01-01-cmajor-1black.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-01-02-dmajor-1black.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-01-03-emajor-1black.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-01-04-fmajor-1black.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-01-05-gmajor-1black.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-01-06-amajor-1black.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-01-07-hmajor-1black.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-01-08-1major-1black.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-02-01-cismajor-1white.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-02-02-esmajor-1white.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-02-03-fismajor-1white.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-02-04-asmajor-1white.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-02-05-bmajor-1white.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-02-06-1major-1white.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-03-medi-cmajor-as-doubles.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-04-01-st-hdfas.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-04-02-dmt-hdfas.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-04-03-tmt-hdfas.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-04-04-dht-hdfas.py	/^rounde = 1$/;"	v
+rounde	../16/mc-16-04-05-tht-hdfas.py	/^rounde = 1$/;"	v
+rounde	../17/mc-17-01-cmajor-2bh.py	/^rounde = 1$/;"	v
+rounde	../17/mc-17-04-medi-cmajor-as-fis-doubles.py	/^rounde = 1$/;"	v
+rounde	../17/mc-17-05-01-st-hdfasc.py	/^rounde = 1$/;"	v
+rounde	../17/mc-17-05-02-dmt-hdfasc.py	/^rounde = 1$/;"	v
+rounde	../17/mc-17-05-03-tmt-hdfasc.py	/^rounde = 1$/;"	v
+rounde	../17/mc-17-05-04-dht-hdfasc.py	/^rounde = 1$/;"	v
+rounde	../17/mc-17-05-05-tht-hdfasc.py	/^rounde = 1$/;"	v
+rtmidi	../00/ppFunctions.py	/^import rtmidi$/;"	i
+runda	../14/mc-14-03-whfl.py	/^runda = 0$/;"	v
+runda	../14/mc-14-04-whf-pid.py	/^runda = 0$/;"	v
+runda	../14/mc-14-04b-whf-hpid.py	/^runda = 0$/;"	v
+runda	../17/mc-17-03-01-4bh-fus.py	/^runda = 0$/;"	v
+runda	../17/mc-17-03-02-4bh-pid.py	/^runda = 0$/;"	v
+singleNote	../09/mc-9-1-sk-amtpi.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../09/mc-9-2-sk-dmtpi.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../09/mc-9-3-sk-htpi.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-1-sk-as.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-10-sk-asv.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-11-sk-dsv.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-12-sk-hsv.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-2-sk-ds.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-3-sk-hs.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-4-sk-afi.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-5-sk-dfi.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-6-sk-hfi.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-7-sk-afo.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-8-sk-dfo.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+singleNote	../10/mc-10-9-sk-hfo.py	/^singleNote = re.compile("^[a-h]$")$/;"	v
+splitFour	../14/pptraning.py	/^splitFour = re.compile("^[a-hise]+ [a-hise]+ [a-hise]+ [a-hise]+$")$/;"	v
+splitFour	../pptraning.py	/^splitFour = re.compile("^[a-hise]+ [a-hise]+ [a-hise]+ [a-hise]+$")$/;"	v
+splitNote	../12/mc-12-02-bmd.py	/^          splitNote = n.split()$/;"	v
+splitNote	../12/mc-12-03-bhd.py	/^          splitNote = n.split()$/;"	v
+splitNote	../12/mc-12-04-bth.py	/^          splitNote = n.split()$/;"	v
+splitNote	../12/mc-12-05-btm.py	/^          splitNote = n.split()$/;"	v
+splitNote	../14/mc-14-01-cmajor-1black.py	/^          splitNote = n.split()$/;"	v
+splitNote	../14/mc-14-02-4w1b.py	/^      splitNote = n.split()$/;"	v
+splitNote	../14/mc-14-03-whfl.py	/^      splitNote = n.split()$/;"	v
+splitNote	../14/mc-14-04-whf-pid.py	/^      splitNote = n.split()$/;"	v
+splitNote	../14/mc-14-04b-whf-hpid.py	/^      splitNote = n.split()$/;"	v
+splitNote	../17/mc-17-02-3w1b.py	/^      splitNote = n.split()$/;"	v
+splitNote	../17/mc-17-03-01-4bh-fus.py	/^      splitNote = n.split()$/;"	v
+splitNote	../17/mc-17-03-02-4bh-pid.py	/^      splitNote = n.split()$/;"	v
+splitThree	../14/pptraning.py	/^splitThree = re.compile("^[a-hise]+ [a-hise]+ [a-hise]+$")$/;"	v
+splitThree	../pptraning.py	/^splitThree = re.compile("^[a-hise]+ [a-hise]+ [a-hise]+$")$/;"	v
+splitTwo	../14/pptraning.py	/^splitTwo = re.compile("^[a-hise]+ [a-hise]+$")$/;"	v
+splitTwo	../pptraning.py	/^splitTwo = re.compile("^[a-hise]+ [a-hise]+$")$/;"	v
+splited	../14/mc-14-03-whfl.py	/^      splited = n.split()$/;"	v
+splited	../14/mc-14-04-whf-pid.py	/^      splited = n.split()$/;"	v
+splited	../14/mc-14-04b-whf-hpid.py	/^      splited = n.split()$/;"	v
+splited	../17/mc-17-03-01-4bh-fus.py	/^      splited = n.split()$/;"	v
+splited	../17/mc-17-03-02-4bh-pid.py	/^      splited = n.split()$/;"	v
+splitedGuessedNotes	../16/mc-16-04-02-dmt-hdfas.py	/^        splitedGuessedNotes = guessedNote.split()$/;"	v
+splitedGuessedNotes	../16/mc-16-04-03-tmt-hdfas.py	/^        splitedGuessedNotes = guessedNote.split()$/;"	v
+splitedGuessedNotes	../16/mc-16-04-04-dht-hdfas.py	/^        splitedGuessedNotes = guessedNote.split()$/;"	v
+splitedGuessedNotes	../16/mc-16-04-05-tht-hdfas.py	/^        splitedGuessedNotes = guessedNote.split()$/;"	v
+splitedGuessedNotes	../17/mc-17-05-02-dmt-hdfasc.py	/^        splitedGuessedNotes = guessedNote.split()$/;"	v
+splitedGuessedNotes	../17/mc-17-05-03-tmt-hdfasc.py	/^        splitedGuessedNotes = guessedNote.split()$/;"	v
+splitedGuessedNotes	../17/mc-17-05-04-dht-hdfasc.py	/^        splitedGuessedNotes = guessedNote.split()$/;"	v
+splitedGuessedNotes	../17/mc-17-05-05-tht-hdfasc.py	/^        splitedGuessedNotes = guessedNote.split()$/;"	v
+stringToMidiNum	../00/ppFunctions.py	/^def stringToMidiNum(string):$/;"	f
+swap	../12/mc-12-03-bhd.py	/^      swap = None$/;"	v
+swap	../12/mc-12-03-bhd.py	/^      swap = noteOne$/;"	v
+sys	../02/mc-2-1-colorAwareness.py	/^import sys$/;"	i
+sys	../03/mc-3-1-chords.py	/^import sys$/;"	i
+sys	../05/mc-5-1-sk-thirds.py	/^import sys$/;"	i
+sys	../06/mc-6-1-sk-seconds.py	/^import sys$/;"	i
+sys	../06/mc-6-2-sk-unlock-2-close.py	/^import sys$/;"	i
+sys	../06/mc-6-3-sk-unlock-2-wide.py	/^import sys$/;"	i
+sys	../06/mc-6-4-sk-unlock-3-close.py	/^import sys$/;"	i
+sys	../06/mc-6-5-sk-unlock-3-wide.py	/^import sys$/;"	i
+sys	../07/mc-7-1-sk-c-major.py	/^import sys$/;"	i
+sys	../07/mc-7-2-medi-cde.py	/^import sys$/;"	i
+sys	../07/mc-7-4-tp-cde-md.py	/^import sys$/;"	i
+sys	../07/mc-7-5-tp-cde-hd.py	/^import sys$/;"	i
+sys	../08/mc-8-1-sk-amtpi.py	/^import sys$/;"	i
+sys	../08/mc-8-2-sk-dmtpi.py	/^import sys$/;"	i
+sys	../08/mc-8-3-sk-htpi.py	/^import sys$/;"	i
+sys	../08/mc-8-4-medi-cdef.py	/^import sys$/;"	i
+sys	../08/mc-8-5-tp-ms-cdef.py	/^import sys$/;"	i
+sys	../08/mc-8-6-tp-md-cdef.py	/^import sys$/;"	i
+sys	../08/mc-8-7-tp-hd-cdef.py	/^import sys$/;"	i
+sys	../09/mc-9-1-sk-amtpi.py	/^import sys$/;"	i
+sys	../09/mc-9-2-sk-dmtpi.py	/^import sys$/;"	i
+sys	../09/mc-9-3-sk-htpi.py	/^import sys$/;"	i
+sys	../09/mc-9-4-medi-cdefg.py	/^import sys$/;"	i
+sys	../09/mc-9-5-tp-ms-cdefg.py	/^import sys$/;"	i
+sys	../09/mc-9-6-tp-md-cdefg.py	/^import sys$/;"	i
+sys	../09/mc-9-7-tp-hd-cdefg.py	/^import sys$/;"	i
+sys	../10/mc-10-1-sk-as.py	/^import sys$/;"	i
+sys	../10/mc-10-10-sk-asv.py	/^import sys$/;"	i
+sys	../10/mc-10-11-sk-dsv.py	/^import sys$/;"	i
+sys	../10/mc-10-12-sk-hsv.py	/^import sys$/;"	i
+sys	../10/mc-10-13-medi-cdefga.py	/^import sys$/;"	i
+sys	../10/mc-10-14-tp-ms-cdefga.py	/^import sys$/;"	i
+sys	../10/mc-10-15-tp-md-cdefga.py	/^import sys$/;"	i
+sys	../10/mc-10-16-tp-hd-cdefga.py	/^import sys$/;"	i
+sys	../10/mc-10-17-tp-mt-cdefga.py	/^import sys$/;"	i
+sys	../10/mc-10-18-tp-ht-cdefga.py	/^import sys$/;"	i
+sys	../10/mc-10-2-sk-ds.py	/^import sys$/;"	i
+sys	../10/mc-10-3-sk-hs.py	/^import sys$/;"	i
+sys	../10/mc-10-4-sk-afi.py	/^import sys$/;"	i
+sys	../10/mc-10-5-sk-dfi.py	/^import sys$/;"	i
+sys	../10/mc-10-6-sk-hfi.py	/^import sys$/;"	i
+sys	../10/mc-10-7-sk-afo.py	/^import sys$/;"	i
+sys	../10/mc-10-8-sk-dfo.py	/^import sys$/;"	i
+sys	../10/mc-10-9-sk-hfo.py	/^import sys$/;"	i
+sys	../11/mc-11-01-sk-whd.py	/^import sys$/;"	i
+sys	../11/mc-11-0203-sk-wmd.py	/^import sys$/;"	i
+sys	../11/mc-11-04-sk-ht.py	/^import sys$/;"	i
+sys	../11/mc-11-05-sk-mt.py	/^import sys$/;"	i
+sys	../11/mc-11-06-sk-wht.py	/^import sys$/;"	i
+sys	../11/mc-11-07-sk-wmt.py	/^import sys$/;"	i
+sys	../11/mc-11-08-medi.py	/^import sys$/;"	i
+sys	../11/mc-11-09-tp-ms.py	/^import sys$/;"	i
+sys	../12/mc-12-01-bs.py	/^import sys$/;"	i
+sys	../12/mc-12-02-bmd.py	/^import sys$/;"	i
+sys	../12/mc-12-03-bhd.py	/^import sys$/;"	i
+sys	../12/mc-12-04-bth.py	/^import sys$/;"	i
+sys	../12/mc-12-05-btm.py	/^import sys$/;"	i
+sys	../14/mc-14-01-cmajor-1black.py	/^import sys$/;"	i
+sys	../14/mc-14-02-4w1b.py	/^import sys$/;"	i
+sys	../14/mc-14-03-whfl.py	/^import sys$/;"	i
+sys	../14/mc-14-04-whf-pid.py	/^import sys$/;"	i
+sys	../14/mc-14-04b-whf-hpid.py	/^import sys$/;"	i
+sys	../14/mc-14-05-medi.py	/^import sys$/;"	i
+sys	../17/mc-17-02-3w1b.py	/^import sys$/;"	i
+sys	../17/mc-17-03-01-4bh-fus.py	/^import sys$/;"	i
+sys	../17/mc-17-03-02-4bh-pid.py	/^import sys$/;"	i
+time	../00/ppFunctions.py	/^import time$/;"	i
+time	../02/mc-2-1-colorAwareness.py	/^import time$/;"	i
+time	../03/mc-3-1-chords.py	/^import time$/;"	i
+time	../05/mc-5-1-sk-thirds.py	/^import time$/;"	i
+time	../06/mc-6-1-sk-seconds.py	/^import time$/;"	i
+time	../06/mc-6-2-sk-unlock-2-close.py	/^import time$/;"	i
+time	../06/mc-6-3-sk-unlock-2-wide.py	/^import time$/;"	i
+time	../06/mc-6-4-sk-unlock-3-close.py	/^import time$/;"	i
+time	../06/mc-6-5-sk-unlock-3-wide.py	/^import time$/;"	i
+time	../07/mc-7-1-sk-c-major.py	/^import time$/;"	i
+time	../07/mc-7-2-medi-cde.py	/^import time$/;"	i
+time	../07/mc-7-4-tp-cde-md.py	/^import time$/;"	i
+time	../07/mc-7-5-tp-cde-hd.py	/^import time$/;"	i
+time	../08/mc-8-1-sk-amtpi.py	/^import time$/;"	i
+time	../08/mc-8-2-sk-dmtpi.py	/^import time$/;"	i
+time	../08/mc-8-3-sk-htpi.py	/^import time$/;"	i
+time	../08/mc-8-4-medi-cdef.py	/^import time$/;"	i
+time	../08/mc-8-5-tp-ms-cdef.py	/^import time$/;"	i
+time	../08/mc-8-6-tp-md-cdef.py	/^import time$/;"	i
+time	../08/mc-8-7-tp-hd-cdef.py	/^import time$/;"	i
+time	../09/mc-9-1-sk-amtpi.py	/^import time$/;"	i
+time	../09/mc-9-2-sk-dmtpi.py	/^import time$/;"	i
+time	../09/mc-9-3-sk-htpi.py	/^import time$/;"	i
+time	../09/mc-9-4-medi-cdefg.py	/^import time$/;"	i
+time	../09/mc-9-5-tp-ms-cdefg.py	/^import time$/;"	i
+time	../09/mc-9-6-tp-md-cdefg.py	/^import time$/;"	i
+time	../09/mc-9-7-tp-hd-cdefg.py	/^import time$/;"	i
+time	../10/mc-10-1-sk-as.py	/^import time$/;"	i
+time	../10/mc-10-10-sk-asv.py	/^import time$/;"	i
+time	../10/mc-10-11-sk-dsv.py	/^import time$/;"	i
+time	../10/mc-10-12-sk-hsv.py	/^import time$/;"	i
+time	../10/mc-10-13-medi-cdefga.py	/^import time$/;"	i
+time	../10/mc-10-14-tp-ms-cdefga.py	/^import time$/;"	i
+time	../10/mc-10-15-tp-md-cdefga.py	/^import time$/;"	i
+time	../10/mc-10-16-tp-hd-cdefga.py	/^import time$/;"	i
+time	../10/mc-10-17-tp-mt-cdefga.py	/^import time$/;"	i
+time	../10/mc-10-18-tp-ht-cdefga.py	/^import time$/;"	i
+time	../10/mc-10-2-sk-ds.py	/^import time$/;"	i
+time	../10/mc-10-3-sk-hs.py	/^import time$/;"	i
+time	../10/mc-10-4-sk-afi.py	/^import time$/;"	i
+time	../10/mc-10-5-sk-dfi.py	/^import time$/;"	i
+time	../10/mc-10-6-sk-hfi.py	/^import time$/;"	i
+time	../10/mc-10-7-sk-afo.py	/^import time$/;"	i
+time	../10/mc-10-8-sk-dfo.py	/^import time$/;"	i
+time	../10/mc-10-9-sk-hfo.py	/^import time$/;"	i
+time	../11/mc-11-01-sk-whd.py	/^import time$/;"	i
+time	../11/mc-11-0203-sk-wmd.py	/^import time$/;"	i
+time	../11/mc-11-04-sk-ht.py	/^import time$/;"	i
+time	../11/mc-11-05-sk-mt.py	/^import time$/;"	i
+time	../11/mc-11-06-sk-wht.py	/^import time$/;"	i
+time	../11/mc-11-07-sk-wmt.py	/^import time$/;"	i
+time	../11/mc-11-08-medi.py	/^import time$/;"	i
+time	../11/mc-11-09-tp-ms.py	/^import time$/;"	i
+time	../14/mc-14-01-cmajor-1black.py	/^import time$/;"	i
+time	../14/pptraning.py	/^import time$/;"	i
+time	../pptraning.py	/^import time$/;"	i
+toneOffset	../03/mc-3-1-chords.py	/^toneOffset = -24$/;"	v
+usage	../07/mc-7-2-medi-cde.py	/^usage = "Usage: 1-play, 2-next."$/;"	v
+usage	../07/mc-7-4-tp-cde-md.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../07/mc-7-5-tp-cde-hd.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../08/mc-8-1-sk-amtpi.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../08/mc-8-2-sk-dmtpi.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../08/mc-8-3-sk-htpi.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../08/mc-8-4-medi-cdef.py	/^usage = "Usage: 1-play, 2-next."$/;"	v
+usage	../08/mc-8-6-tp-md-cdef.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../08/mc-8-7-tp-hd-cdef.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../09/mc-9-1-sk-amtpi.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../09/mc-9-2-sk-dmtpi.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../09/mc-9-3-sk-htpi.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../09/mc-9-4-medi-cdefg.py	/^usage = "Usage: 1-play, 2-next."$/;"	v
+usage	../09/mc-9-6-tp-md-cdefg.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../09/mc-9-7-tp-hd-cdefg.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../10/mc-10-1-sk-as.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-10-sk-asv.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-11-sk-dsv.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-12-sk-hsv.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-13-medi-cdefga.py	/^usage = "Usage: 1-play, 2-next."$/;"	v
+usage	../10/mc-10-15-tp-md-cdefga.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../10/mc-10-16-tp-hd-cdefga.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../10/mc-10-17-tp-mt-cdefga.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d e\\", ?-usage."$/;"	v
+usage	../10/mc-10-18-tp-ht-cdefga.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d e\\", ?-usage."$/;"	v
+usage	../10/mc-10-2-sk-ds.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-3-sk-hs.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-4-sk-afi.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-5-sk-dfi.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-6-sk-hfi.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-7-sk-afo.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-8-sk-dfo.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../10/mc-10-9-sk-hfo.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage., hint, err"$/;"	v
+usage	../11/mc-11-01-sk-whd.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../11/mc-11-0203-sk-wmd.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../11/mc-11-04-sk-ht.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d e\\", ?-usage."$/;"	v
+usage	../11/mc-11-05-sk-mt.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d e\\", ?-usage."$/;"	v
+usage	../11/mc-11-06-sk-wht.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d e\\", ?-usage."$/;"	v
+usage	../11/mc-11-07-sk-wmt.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d e\\", ?-usage."$/;"	v
+usage	../11/mc-11-08-medi.py	/^usage = "Usage: 1-play, 2-next."$/;"	v
+usage	../12/mc-12-02-bmd.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../12/mc-12-03-bhd.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d\\", ?-usage."$/;"	v
+usage	../12/mc-12-04-bth.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d e\\", ?-usage."$/;"	v
+usage	../12/mc-12-05-btm.py	/^usage = "Usage: 1-repeat, <note> <note> \\"c d e\\", ?-usage."$/;"	v
+usage	../14/mc-14-01-cmajor-1black.py	/^usage = "Usage: 1-repeat, <note> \\"d\\", ?-usage."$/;"	v
+usage	../14/mc-14-05-medi.py	/^usage = "Usage: 1-play, 2-next."$/;"	v
+whiteCorrect	../14/mc-14-02-4w1b.py	/^        whiteCorrect = 0$/;"	v
+whiteCorrect	../14/mc-14-02-4w1b.py	/^whiteCorrect = 0$/;"	v
+whiteCorrect	../17/mc-17-02-3w1b.py	/^        whiteCorrect = 0$/;"	v
+whiteCorrect	../17/mc-17-02-3w1b.py	/^whiteCorrect = 0$/;"	v
+whiteNotes	../14/pptraning.py	/^whiteNotes = [ #36, 38, 40, 41, 43, 45, 47, #2.0 c-h$/;"	v
+whiteNotes	../pptraning.py	/^whiteNotes = [ #36, 38, 40, 41, 43, 45, 47, #2.0 c-h$/;"	v
+whiteTones	../00/ppFunctions.py	/^whiteTones = {$/;"	v
+whiteTonesBase	../00/ppFunctions.py	/^whiteTonesBase = (0, 2, 4, 5, 7, 9, 11)$/;"	v

@@ -1,6 +1,7 @@
 import time
 import rtmidi
 import re
+import random
 
 midiout = rtmidi.MidiOut()
 available_ports = midiout.get_ports()
@@ -127,3 +128,39 @@ blackTonesBase = (1, 3, 6, 8, 10)
 #generiramo listu tonova za vjezbu
 lowTone = stringToMidiNum("c")
 highTone = stringToMidiNum("c'")
+
+def chooseTonesFromGivenList(numberOfTones, givenList):
+    randomNotes = []
+    givenListCopy = list(givenList)
+    for i in range(numberOfTones):
+        randomNotes.append(random.choice(givenListCopy))
+        givenListCopy.remove(randomNotes[i])
+    randomNotes.sort()
+    return(randomNotes)
+
+def colorTonesGenerator(color):
+  colorTones = []
+  if (color == "white"): colorTones.extend(whiteTonesBase)
+  elif (color == "black"): colorTones.extend(blackTonesBase)
+  else:
+    colorTones.extend(whiteTonesBase)
+    colorTones.extend(blackTonesBase)
+  return(colorTones)
+
+def generatePracticeTonesRange(startTone, endTone, color):
+  colorTones = colorTonesGenerator(color)
+  practiceTonesRange = []
+  for tone in range(stringToMidiNum(startTone), stringToMidiNum(endTone) + 1):
+    if (tone % 12) in colorTones:
+      practiceTonesRange.append(tone)
+  return(practiceTonesRange)
+
+def isSyntaxValid(guessedNotes):
+  unvalid = any([x for x in guessedNotes if x not in lilypondTones])
+  if(unvalid): return(False)
+  return(True)
+
+def areTonesCorrect(randomNotes, guessedNotes):
+  for i in range(len(randomNotes)):
+    if(lilypondTones[guessedNotes[i]] != randomNotes[i] % 12): return(False)
+  return(True)
