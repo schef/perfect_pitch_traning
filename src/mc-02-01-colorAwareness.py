@@ -1,19 +1,8 @@
-#!/usr/bin/python
-# Public domain ear training program
-# Written by Wojciech M. Zabolotny
-# ( wzab@ise.pw.edu.pl )
-# 1.07.2010
+#!/usr/bin/env python
 import random
 import time
-import sys
-fname="/dev/snd/midiC2D0"
-#fname=sys.argv[1]
-#keymin=int(sys.argv[2])
-#keymax=int(sys.argv[3])
-keymin=int(60)
-keymax=int(72)
-fin=open(fname,"rb")
-fout=open(fname,"wb")
+
+import pitch_parser
 
 notesOffset = -24
 #c major scale

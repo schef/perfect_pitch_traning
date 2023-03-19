@@ -66,8 +66,8 @@ def name2Num(name):
   elif name == "h":
     return(71)
 
-#fname="/dev/snd/midiC1D0"
-fname="/dev/snd/midiC2D0"
+fname="/dev/snd/midiC1D0"
+#fname="/dev/snd/midiC2D0"
 #fname="/dev/snd/midiC3D0"
 #fname="/dev/snd/midiC3D0"
 fin=open(fname,"rb")
