@@ -27,7 +27,7 @@ class Connection():
 
 class Connector:
     def __init__(self):
-        self.audio_soundcard_ucm204hd = Connection("UMC204HD", ["playback_FL", "playback_FR"])
+        self.audio_soundcard_ucm204hd = Connection("UMC204HD", ["playback_AUX0", "playback_AUX1"])
         self.audio_soundcard_builtin = Connection("Built-in", ["playback_FL", "playback_FR"])
         self.audio_instrument_organ = Connection("setBfree", ["outL", "outR"])
         self.midi_keyboard_isometric = Connection("Pico", ["capture_0"]) 
@@ -36,10 +36,16 @@ class Connector:
     
     @staticmethod
     def wait_for_port(connection: Connection):
+        max_timeout = 1.0
+        timeout_counter = 0.0
+        timeout_step = 0.05
         while(True):
             if len(connection.get()):
                 break
-            sleep(0.05)
+            sleep(timeout_step)
+            timeout_counter += timeout_step
+            if timeout_counter >= max_timeout:
+                break
 
 
     @staticmethod
@@ -66,7 +72,8 @@ class Connector:
         self.connect_ports(self.audio_instrument_organ, self.audio_soundcard_builtin)
 
     def connect(self):
-        self.connect_office()
+        self.connect_home()
+        #self.connect_office()
 
 if __name__ == "__main__":
     connector = Connector()
